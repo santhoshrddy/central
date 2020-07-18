@@ -1,3 +1,8 @@
 # This file is created by ibus-daemon, please do not modify it
+<<<<<<< HEAD
 IBUS_ADDRESS=unix:abstract=/tmp/dbus-WkfTsYpB,guid=376598f9f85bb74697b5eb6b5f12596a
 IBUS_DAEMON_PID=2708
+=======
+IBUS_ADDRESS=unix:abstract=/tmp/dbus-ookLWhLJ,guid=ae30edbaa74aacc406729be35f125560
+IBUS_DAEMON_PID=1366
+>>>>>>> develop
