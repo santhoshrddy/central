@@ -1,8 +1,3 @@
 # This file is created by ibus-daemon, please do not modify it
-<<<<<<< HEAD
-IBUS_ADDRESS=unix:abstract=/tmp/dbus-fBLPaLS5,guid=3a78a5d146bb94dae01c859b5f119582
-IBUS_DAEMON_PID=1066
-=======
-IBUS_ADDRESS=unix:abstract=/tmp/dbus-TX9IM3bS,guid=bc439266882e26e125741a315f119719
-IBUS_DAEMON_PID=1535
->>>>>>> traning
+IBUS_ADDRESS=unix:abstract=/tmp/dbus-aQplxMaR,guid=594c20abc00c31afbc18dabb5f125b94
+IBUS_DAEMON_PID=2823
