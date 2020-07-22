@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 22 12:11:23 IST 2020
+http\://repo.spring.io/ext-release-local/.error=Could not transfer artifact org.jboss.shrinkwrap.resolver\:shrinkwrap-resolver-bom\:pom\:1.0.0-beta-7 from/to spring-ext (http\://repo.spring.io/ext-release-local/)\: Access denied to\: http\://repo.spring.io/ext-release-local/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1595400083809
+@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1595400081670
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.jboss.shrinkwrap.resolver\:shrinkwrap-resolver-bom\:pom\:1.0.0-beta-7 from/to spring-milestones (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom , ReasonPhrase\:Forbidden.
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1595400082949
+@default-spring-ext-http\://repo.spring.io/ext-release-local/.lastUpdated=1595400081025
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.jboss.shrinkwrap.resolver\:shrinkwrap-resolver-bom\:pom\:1.0.0-beta-7 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: Access denied to\: http\://repo.spring.io/snapshot/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom , ReasonPhrase\:Forbidden.
