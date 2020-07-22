@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="5608" last-seen="1595301385"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="5998" last-seen="1595427924"/>
+    <application id="firefox.desktop" open-window-count="1" score="16" last-seen="1595427976"/>
   </context>
 </application-state>

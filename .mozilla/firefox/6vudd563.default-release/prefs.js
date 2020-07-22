@@ -15,7 +15,7 @@ user_pref("app.normandy.startupRolloutPrefs.devtools.responsive.metaViewport.ena
 user_pref("app.normandy.startupRolloutPrefs.extensions.blocklist.useXML", false);
 user_pref("app.normandy.user_id", "89b49c81-657c-4508-9830-bc4f3cd1d405");
 user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1595427903);
-user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1594307761);
+user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1595428023);
 user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1594622948);
 user_pref("app.update.lastUpdateTime.recipe-client-addon-run", 1595427812);
 user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1594623068);
