@@ -5,8 +5,8 @@
         "star2": 8,
         "star3": 11,
         "star4": 35,
-        "star5": 358,
-        "total": 438
+        "star5": 360,
+        "total": 440
     },
     "2048-qt.desktop": {
         "star0": 0,
@@ -532,12 +532,12 @@
     },
     "Nemo.desktop": {
         "star0": 0,
-        "star1": 4,
+        "star1": 5,
         "star2": 4,
         "star3": 2,
         "star4": 3,
         "star5": 32,
-        "total": 45
+        "total": 46
     },
     "On_Screen_Keyboard_Button_bradan.eu": {
         "star0": 0,
@@ -599,8 +599,8 @@
         "star2": 20,
         "star3": 21,
         "star4": 29,
-        "star5": 123,
-        "total": 290
+        "star5": 124,
+        "total": 291
     },
     "Player.desktop": {
         "star0": 0,
@@ -1192,9 +1192,9 @@
         "star1": 3,
         "star2": 0,
         "star3": 3,
-        "star4": 2,
+        "star4": 3,
         "star5": 7,
-        "total": 15
+        "total": 16
     },
     "afirma.desktop": {
         "star0": 0,
@@ -1436,8 +1436,8 @@
         "star2": 7,
         "star3": 12,
         "star4": 18,
-        "star5": 173,
-        "total": 237
+        "star5": 175,
+        "total": 239
     },
     "android-tool_naman14.github.com": {
         "star0": 0,
@@ -1472,8 +1472,8 @@
         "star2": 2,
         "star3": 3,
         "star4": 4,
-        "star5": 38,
-        "total": 60
+        "star5": 39,
+        "total": 61
     },
     "antigravitaattori.desktop": {
         "star0": 0,
@@ -1659,10 +1659,10 @@
         "star0": 0,
         "star1": 15,
         "star2": 5,
-        "star3": 8,
+        "star3": 9,
         "star4": 6,
-        "star5": 23,
-        "total": 57
+        "star5": 24,
+        "total": 59
     },
     "argos_pew.worldwidemann.com": {
         "star0": 0,
@@ -1786,9 +1786,9 @@
         "star1": 1,
         "star2": 2,
         "star3": 0,
-        "star4": 0,
+        "star4": 1,
         "star5": 1,
-        "total": 4
+        "total": 5
     },
     "atom.desktop": {
         "star0": 0,
@@ -1821,19 +1821,19 @@
         "star0": 0,
         "star1": 5,
         "star2": 4,
-        "star3": 12,
+        "star3": 13,
         "star4": 17,
-        "star5": 117,
-        "total": 155
+        "star5": 118,
+        "total": 157
     },
     "audacious.desktop": {
         "star0": 0,
         "star1": 5,
         "star2": 4,
-        "star3": 12,
+        "star3": 13,
         "star4": 17,
-        "star5": 117,
-        "total": 155
+        "star5": 118,
+        "total": 157
     },
     "audacity.desktop": {
         "star0": 0,
@@ -1841,8 +1841,8 @@
         "star2": 19,
         "star3": 13,
         "star4": 26,
-        "star5": 159,
-        "total": 251
+        "star5": 160,
+        "total": 252
     },
     "audio-input-switcher_anduchs": {
         "star0": 0,
@@ -2017,12 +2017,12 @@
     },
     "baidunetdisk.desktop": {
         "star0": 0,
-        "star1": 89,
+        "star1": 90,
         "star2": 6,
         "star3": 13,
         "star4": 4,
         "star5": 12,
-        "total": 124
+        "total": 125
     },
     "ballbuster.desktop": {
         "star0": 0,
@@ -2100,10 +2100,10 @@
         "star0": 0,
         "star1": 3,
         "star2": 1,
-        "star3": 1,
+        "star3": 2,
         "star4": 3,
         "star5": 8,
-        "total": 16
+        "total": 17
     },
     "bastet.desktop": {
         "star0": 0,
@@ -2246,8 +2246,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 0,
-        "star5": 3,
-        "total": 3
+        "star5": 4,
+        "total": 4
     },
     "bibletime.desktop": {
         "star0": 0,
@@ -2642,8 +2642,8 @@
         "star2": 6,
         "star3": 4,
         "star4": 12,
-        "star5": 98,
-        "total": 143
+        "star5": 99,
+        "total": 144
     },
     "brave-browser-beta.desktop": {
         "star0": 0,
@@ -2993,8 +2993,8 @@
         "star2": 9,
         "star3": 12,
         "star4": 13,
-        "star5": 154,
-        "total": 199
+        "star5": 155,
+        "total": 200
     },
     "california.desktop": {
         "star0": 0,
@@ -3081,10 +3081,10 @@
         "star0": 0,
         "star1": 5,
         "star2": 2,
-        "star3": 0,
+        "star3": 1,
         "star4": 2,
         "star5": 1,
-        "total": 10
+        "total": 11
     },
     "cdogs-sdl.desktop": {
         "star0": 0,
@@ -3232,12 +3232,12 @@
     },
     "chromium-browser.desktop": {
         "star0": 0,
-        "star1": 65,
+        "star1": 66,
         "star2": 43,
         "star3": 41,
         "star4": 54,
-        "star5": 238,
-        "total": 441
+        "star5": 241,
+        "total": 445
     },
     "chromium-bsu.desktop": {
         "star0": 0,
@@ -3245,8 +3245,8 @@
         "star2": 0,
         "star3": 7,
         "star4": 4,
-        "star5": 16,
-        "total": 31
+        "star5": 17,
+        "total": 32
     },
     "chromium-freeworld.desktop": {
         "star0": 0,
@@ -3268,12 +3268,12 @@
     },
     "chromium.desktop": {
         "star0": 0,
-        "star1": 165,
+        "star1": 166,
         "star2": 112,
-        "star3": 96,
+        "star3": 97,
         "star4": 127,
-        "star5": 577,
-        "total": 1077
+        "star5": 580,
+        "total": 1082
     },
     "cinnamon-display-panel.desktop": {
         "star0": 0,
@@ -3416,8 +3416,8 @@
         "star2": 2,
         "star3": 3,
         "star4": 2,
-        "star5": 9,
-        "total": 30
+        "star5": 10,
+        "total": 31
     },
     "cinnamon-settings-user.desktop": {
         "star0": 0,
@@ -3578,8 +3578,8 @@
         "star2": 1,
         "star3": 1,
         "star4": 0,
-        "star5": 6,
-        "total": 8
+        "star5": 7,
+        "total": 9
     },
     "cmst.desktop": {
         "star0": 0,
@@ -3632,8 +3632,8 @@
         "star2": 3,
         "star3": 12,
         "star4": 18,
-        "star5": 416,
-        "total": 468
+        "star5": 417,
+        "total": 469
     },
     "code.desktop": {
         "star0": 0,
@@ -3641,8 +3641,8 @@
         "star2": 7,
         "star3": 21,
         "star4": 35,
-        "star5": 627,
-        "total": 732
+        "star5": 628,
+        "total": 733
     },
     "codeblocks.desktop": {
         "star0": 0,
@@ -3812,8 +3812,8 @@
         "star2": 0,
         "star3": 3,
         "star4": 4,
-        "star5": 86,
-        "total": 96
+        "star5": 87,
+        "total": 97
     },
     "com.blizzard.StarCraft2.desktop": {
         "star0": 0,
@@ -3857,8 +3857,8 @@
         "star2": 9,
         "star3": 13,
         "star4": 14,
-        "star5": 159,
-        "total": 207
+        "star5": 160,
+        "total": 208
     },
     "com.calibre_ebook.calibre.desktop": {
         "star0": 0,
@@ -4190,8 +4190,8 @@
         "star2": 0,
         "star3": 1,
         "star4": 0,
-        "star5": 6,
-        "total": 8
+        "star5": 7,
+        "total": 9
     },
     "com.github.IsmaelMartinez.teams_for_linux": {
         "star0": 0,
@@ -4204,21 +4204,21 @@
     },
     "com.github.JannikHv.Gydl": {
         "star0": 0,
-        "star1": 12,
+        "star1": 13,
         "star2": 3,
         "star3": 3,
         "star4": 3,
         "star5": 3,
-        "total": 24
+        "total": 25
     },
     "com.github.JannikHv.Gydl.desktop": {
         "star0": 0,
-        "star1": 12,
+        "star1": 13,
         "star2": 3,
         "star3": 3,
         "star4": 3,
         "star5": 3,
-        "total": 24
+        "total": 25
     },
     "com.github.PintaProject.Pinta": {
         "star0": 0,
@@ -4676,8 +4676,8 @@
         "star2": 0,
         "star3": 2,
         "star4": 1,
-        "star5": 12,
-        "total": 20
+        "star5": 13,
+        "total": 21
     },
     "com.github.hluk.copyq.desktop": {
         "star0": 0,
@@ -4685,8 +4685,8 @@
         "star2": 0,
         "star3": 2,
         "star4": 1,
-        "star5": 12,
-        "total": 20
+        "star5": 13,
+        "total": 21
     },
     "com.github.huluti.ImCompressor": {
         "star0": 0,
@@ -4729,18 +4729,18 @@
         "star1": 10,
         "star2": 0,
         "star3": 3,
-        "star4": 7,
+        "star4": 8,
         "star5": 78,
-        "total": 98
+        "total": 99
     },
     "com.github.johnfactotum.Foliate.desktop": {
         "star0": 0,
         "star1": 10,
         "star2": 0,
         "star3": 3,
-        "star4": 7,
+        "star4": 8,
         "star5": 78,
-        "total": 98
+        "total": 99
     },
     "com.github.junrrein.PDFSlicer": {
         "star0": 0,
@@ -4874,8 +4874,8 @@
         "star2": 24,
         "star3": 18,
         "star4": 17,
-        "star5": 87,
-        "total": 233
+        "star5": 88,
+        "total": 234
     },
     "com.github.miguelmota.Cointop": {
         "star0": 0,
@@ -5207,8 +5207,8 @@
         "star2": 8,
         "star3": 6,
         "star4": 11,
-        "star5": 55,
-        "total": 95
+        "star5": 57,
+        "total": 97
     },
     "com.github.wwmm.pulseeffects.desktop": {
         "star0": 0,
@@ -5216,8 +5216,8 @@
         "star2": 8,
         "star3": 6,
         "star4": 11,
-        "star5": 55,
-        "total": 95
+        "star5": 57,
+        "total": 97
     },
     "com.github.xournalpp.xournalpp": {
         "star0": 0,
@@ -5360,8 +5360,8 @@
         "star2": 7,
         "star3": 9,
         "star4": 2,
-        "star5": 25,
-        "total": 79
+        "star5": 26,
+        "total": 80
     },
     "com.googleplaymusicdesktopplayer.GPMDP": {
         "star0": 0,
@@ -5392,12 +5392,12 @@
     },
     "com.hack_computer.OperatingSystemApp": {
         "star0": 0,
-        "star1": 3,
+        "star1": 4,
         "star2": 0,
         "star3": 1,
         "star4": 0,
         "star5": 0,
-        "total": 4
+        "total": 5
     },
     "com.hamrick.VueScan": {
         "star0": 0,
@@ -5747,8 +5747,8 @@
         "star2": 2,
         "star3": 2,
         "star4": 5,
-        "star5": 27,
-        "total": 47
+        "star5": 28,
+        "total": 48
     },
     "com.obsproject.Studio.desktop": {
         "star0": 0,
@@ -5756,8 +5756,8 @@
         "star2": 2,
         "star3": 2,
         "star4": 5,
-        "star5": 27,
-        "total": 47
+        "star5": 28,
+        "total": 48
     },
     "com.opera.opera": {
         "star0": 0,
@@ -5801,8 +5801,8 @@
         "star2": 9,
         "star3": 13,
         "star4": 42,
-        "star5": 428,
-        "total": 520
+        "star5": 430,
+        "total": 522
     },
     "com.play0ad.zeroad.desktop": {
         "star0": 0,
@@ -5810,8 +5810,8 @@
         "star2": 1,
         "star3": 4,
         "star4": 12,
-        "star5": 161,
-        "total": 188
+        "star5": 162,
+        "total": 189
     },
     "com.prusa3d.PrusaSlicer": {
         "star0": 0,
@@ -5880,10 +5880,10 @@
         "star0": 0,
         "star1": 373,
         "star2": 86,
-        "star3": 66,
+        "star3": 67,
         "star4": 80,
         "star5": 177,
-        "total": 782
+        "total": 783
     },
     "com.skype.Client.desktop": {
         "star0": 0,
@@ -5905,12 +5905,12 @@
     },
     "com.slack.Slack.desktop": {
         "star0": 0,
-        "star1": 99,
-        "star2": 34,
+        "star1": 103,
+        "star2": 35,
         "star3": 31,
         "star4": 18,
         "star5": 67,
-        "total": 249
+        "total": 254
     },
     "com.snap.spotify": {
         "star0": 0,
@@ -5933,11 +5933,11 @@
     "com.spotify.Client": {
         "star0": 0,
         "star1": 127,
-        "star2": 85,
+        "star2": 86,
         "star3": 88,
         "star4": 111,
-        "star5": 411,
-        "total": 822
+        "star5": 413,
+        "total": 825
     },
     "com.spotify.Client.desktop": {
         "star0": 0,
@@ -5954,8 +5954,8 @@
         "star2": 19,
         "star3": 10,
         "star4": 23,
-        "star5": 158,
-        "total": 326
+        "star5": 159,
+        "total": 327
     },
     "com.steampowered.steam.desktop": {
         "star0": 0,
@@ -5963,8 +5963,8 @@
         "star2": 19,
         "star3": 10,
         "star4": 23,
-        "star5": 158,
-        "total": 326
+        "star5": 159,
+        "total": 327
     },
     "com.sublimemerge.App": {
         "star0": 0,
@@ -6143,8 +6143,8 @@
         "star2": 15,
         "star3": 7,
         "star4": 8,
-        "star5": 51,
-        "total": 92
+        "star5": 52,
+        "total": 93
     },
     "com.uploadedlobster.peek.desktop": {
         "star0": 0,
@@ -6152,8 +6152,8 @@
         "star2": 15,
         "star3": 7,
         "star4": 8,
-        "star5": 51,
-        "total": 92
+        "star5": 52,
+        "total": 93
     },
     "com.valvesoftware.Steam": {
         "star0": 0,
@@ -6177,19 +6177,19 @@
         "star0": 0,
         "star1": 13,
         "star2": 2,
-        "star3": 1,
+        "star3": 2,
         "star4": 5,
         "star5": 13,
-        "total": 34
+        "total": 35
     },
     "com.viber.Viber.desktop": {
         "star0": 0,
         "star1": 13,
         "star2": 2,
-        "star3": 1,
+        "star3": 2,
         "star4": 5,
         "star5": 13,
-        "total": 34
+        "total": 35
     },
     "com.viewizard.AstroMenace": {
         "star0": 0,
@@ -6286,9 +6286,9 @@
         "star1": 3,
         "star2": 9,
         "star3": 6,
-        "star4": 11,
+        "star4": 12,
         "star5": 24,
-        "total": 53
+        "total": 54
     },
     "com.xamarin.MonoDevelop.desktop": {
         "star0": 0,
@@ -6376,9 +6376,9 @@
         "star1": 1,
         "star2": 0,
         "star3": 1,
-        "star4": 6,
-        "star5": 69,
-        "total": 77
+        "star4": 7,
+        "star5": 70,
+        "total": 79
     },
     "copyq.desktop": {
         "star0": 0,
@@ -6949,12 +6949,12 @@
     },
     "deepin-calculator.desktop": {
         "star0": 0,
-        "star1": 2,
+        "star1": 3,
         "star2": 1,
         "star3": 0,
         "star4": 1,
         "star5": 3,
-        "total": 7
+        "total": 8
     },
     "deepin-deb-installer.desktop": {
         "star0": 0,
@@ -7012,21 +7012,21 @@
     },
     "deepin-screen-recorder.desktop": {
         "star0": 0,
-        "star1": 8,
+        "star1": 9,
         "star2": 2,
         "star3": 4,
         "star4": 2,
         "star5": 4,
-        "total": 20
+        "total": 21
     },
     "deepin-screenshot.desktop": {
         "star0": 0,
-        "star1": 15,
+        "star1": 16,
         "star2": 7,
         "star3": 3,
         "star4": 8,
         "star5": 43,
-        "total": 76
+        "total": 77
     },
     "deepin-system-monitor.desktop": {
         "star0": 0,
@@ -7042,18 +7042,18 @@
         "star1": 4,
         "star2": 1,
         "star3": 0,
-        "star4": 5,
-        "star5": 45,
-        "total": 55
+        "star4": 6,
+        "star5": 46,
+        "total": 57
     },
     "deepin-voice-recorder.desktop": {
         "star0": 0,
         "star1": 20,
         "star2": 8,
-        "star3": 3,
+        "star3": 4,
         "star4": 2,
         "star5": 3,
-        "total": 36
+        "total": 37
     },
     "deepin.com.qq.im.desktop": {
         "star0": 0,
@@ -7126,6 +7126,15 @@
         "star4": 1,
         "star5": 19,
         "total": 33
+    },
+    "denemo.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
     },
     "desaturate_all_nicolas.brack.mail.be": {
         "star0": 0,
@@ -7340,17 +7349,17 @@
         "star2": 16,
         "star3": 21,
         "star4": 20,
-        "star5": 219,
-        "total": 316
+        "star5": 220,
+        "total": 317
     },
     "display-im6.q16.desktop": {
         "star0": 0,
-        "star1": 44,
+        "star1": 45,
         "star2": 3,
         "star3": 3,
         "star4": 1,
         "star5": 7,
-        "total": 58
+        "total": 59
     },
     "display-im6.q16hdri.desktop": {
         "star0": 0,
@@ -7582,9 +7591,9 @@
         "star1": 11,
         "star2": 5,
         "star3": 2,
-        "star4": 4,
+        "star4": 5,
         "star5": 30,
-        "total": 52
+        "total": 53
     },
     "dropbox_orcinus4627.gmail.com": {
         "star0": 0,
@@ -7601,8 +7610,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 0,
-        "star5": 1,
-        "total": 5
+        "star5": 2,
+        "total": 6
     },
     "duolingostatus_david.bonnal.gmail.com": {
         "star0": 0,
@@ -8002,12 +8011,12 @@
     },
     "engrampa.desktop": {
         "star0": 0,
-        "star1": 1,
+        "star1": 2,
         "star2": 2,
         "star3": 2,
         "star4": 1,
         "star5": 8,
-        "total": 14
+        "total": 15
     },
     "enigma.desktop": {
         "star0": 0,
@@ -8447,8 +8456,8 @@
         "star2": 3,
         "star3": 4,
         "star4": 3,
-        "star5": 6,
-        "total": 19
+        "star5": 7,
+        "total": 20
     },
     "fet.desktop": {
         "star0": 0,
@@ -8483,8 +8492,8 @@
         "star2": 2,
         "star3": 11,
         "star4": 16,
-        "star5": 88,
-        "total": 130
+        "star5": 89,
+        "total": 131
     },
     "fillets-ng.desktop": {
         "star0": 0,
@@ -8546,8 +8555,8 @@
         "star2": 3,
         "star3": 4,
         "star4": 9,
-        "star5": 19,
-        "total": 42
+        "star5": 20,
+        "total": 43
     },
     "firefox.desktop": {
         "star0": 0,
@@ -8555,8 +8564,8 @@
         "star2": 36,
         "star3": 53,
         "star4": 71,
-        "star5": 311,
-        "total": 550
+        "star5": 312,
+        "total": 551
     },
     "firefox_firefox.desktop": {
         "star0": 0,
@@ -8564,8 +8573,8 @@
         "star2": 3,
         "star3": 4,
         "star4": 9,
-        "star5": 20,
-        "total": 42
+        "star5": 21,
+        "total": 43
     },
     "firestorm-viewer.desktop": {
         "star0": 0,
@@ -8609,8 +8618,8 @@
         "star2": 0,
         "star3": 1,
         "star4": 0,
-        "star5": 6,
-        "total": 8
+        "star5": 7,
+        "total": 9
     },
     "flameshot-config.desktop": {
         "star0": 0,
@@ -8627,8 +8636,8 @@
         "star2": 11,
         "star3": 3,
         "star4": 18,
-        "star5": 118,
-        "total": 171
+        "star5": 119,
+        "total": 172
     },
     "flare.desktop": {
         "star0": 0,
@@ -8726,8 +8735,8 @@
         "star2": 2,
         "star3": 2,
         "star4": 2,
-        "star5": 8,
-        "total": 17
+        "star5": 9,
+        "total": 18
     },
     "florence.desktop": {
         "star0": 0,
@@ -8749,12 +8758,12 @@
     },
     "flowblade.desktop": {
         "star0": 0,
-        "star1": 13,
+        "star1": 14,
         "star2": 0,
         "star3": 3,
         "star4": 0,
         "star5": 11,
-        "total": 27
+        "total": 28
     },
     "flpsed.desktop": {
         "star0": 0,
@@ -9068,8 +9077,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 0,
-        "star5": 15,
-        "total": 19
+        "star5": 16,
+        "total": 20
     },
     "freeciv.desktop": {
         "star0": 0,
@@ -9662,8 +9671,8 @@
         "star2": 22,
         "star3": 33,
         "star4": 49,
-        "star5": 422,
-        "total": 563
+        "star5": 424,
+        "total": 565
     },
     "girl.desktop": {
         "star0": 0,
@@ -9910,12 +9919,12 @@
     },
     "gnome-control-center.desktop": {
         "star0": 0,
-        "star1": 77,
+        "star1": 78,
         "star2": 20,
         "star3": 7,
         "star4": 9,
         "star5": 29,
-        "total": 142
+        "total": 143
     },
     "gnome-disks.desktop": {
         "star0": 0,
@@ -10666,12 +10675,12 @@
     },
     "gromit.desktop": {
         "star0": 0,
-        "star1": 4,
+        "star1": 5,
         "star2": 0,
         "star3": 0,
         "star4": 1,
         "star5": 0,
-        "total": 5
+        "total": 6
     },
     "grsync.desktop": {
         "star0": 0,
@@ -11138,8 +11147,8 @@
         "star2": 1,
         "star3": 2,
         "star4": 5,
-        "star5": 37,
-        "total": 46
+        "star5": 38,
+        "total": 47
     },
     "higan.desktop": {
         "star0": 0,
@@ -11606,8 +11615,8 @@
         "star2": 1,
         "star3": 2,
         "star4": 1,
-        "star5": 38,
-        "total": 45
+        "star5": 39,
+        "total": 46
     },
     "install-debian.desktop": {
         "star0": 0,
@@ -11678,8 +11687,8 @@
         "star2": 7,
         "star3": 14,
         "star4": 25,
-        "star5": 204,
-        "total": 260
+        "star5": 208,
+        "total": 264
     },
     "io.brackets.Brackets": {
         "star0": 0,
@@ -11993,8 +12002,8 @@
         "star2": 1,
         "star3": 1,
         "star4": 0,
-        "star5": 0,
-        "total": 3
+        "star5": 1,
+        "total": 4
     },
     "io.github.wereturtle.ghostwriter": {
         "star0": 0,
@@ -12119,8 +12128,8 @@
         "star2": 1,
         "star3": 1,
         "star4": 0,
-        "star5": 11,
-        "total": 14
+        "star5": 14,
+        "total": 17
     },
     "io.otsaloma.gaupol.desktop": {
         "star0": 0,
@@ -12137,8 +12146,8 @@
         "star2": 2,
         "star3": 6,
         "star4": 19,
-        "star5": 227,
-        "total": 266
+        "star5": 228,
+        "total": 267
     },
     "io.snapcraft.1password-linux-wZgUTKnVrhrwnLAPyWot35Q6zJYlw0N6": {
         "star0": 0,
@@ -12416,8 +12425,8 @@
         "star2": 7,
         "star3": 12,
         "star4": 18,
-        "star5": 173,
-        "total": 237
+        "star5": 175,
+        "total": 239
     },
     "io.snapcraft.android-studio-canary-YVXogumT1MaxYdcuRmlLkVdspbGUQKnV": {
         "star0": 0,
@@ -12513,10 +12522,10 @@
         "star0": 0,
         "star1": 15,
         "star2": 5,
-        "star3": 8,
+        "star3": 9,
         "star4": 6,
-        "star5": 23,
-        "total": 57
+        "star5": 24,
+        "total": 59
     },
     "io.snapcraft.ark-CDWxIm4gpWmgYt2logNtKVuRywQt0oGJ": {
         "star0": 0,
@@ -12569,8 +12578,8 @@
         "star2": 7,
         "star3": 12,
         "star4": 15,
-        "star5": 126,
-        "total": 168
+        "star5": 130,
+        "total": 172
     },
     "io.snapcraft.atomify-KldgivQGwKLrZKRIEykU8GH08a35zeeO": {
         "star0": 0,
@@ -12826,12 +12835,12 @@
     },
     "io.snapcraft.beekeeper-studio-XEOrla3TiUZiTmvCRiG2TdzQMt64NARk": {
         "star0": 0,
-        "star1": 1,
+        "star1": 2,
         "star2": 3,
         "star3": 1,
         "star4": 7,
         "star5": 13,
-        "total": 25
+        "total": 26
     },
     "io.snapcraft.behind-closed-doors-F4PERDjC4kHxZI7ikN4LyclSB76o9N5k": {
         "star0": 0,
@@ -12920,8 +12929,8 @@
         "star2": 0,
         "star3": 3,
         "star4": 4,
-        "star5": 85,
-        "total": 95
+        "star5": 86,
+        "total": 96
     },
     "io.snapcraft.blender-ZWyHJJiPBBfMKpaaKKrpSgAcupWkHWPz": {
         "star0": 0,
@@ -12929,8 +12938,8 @@
         "star2": 6,
         "star3": 2,
         "star4": 13,
-        "star5": 237,
-        "total": 270
+        "star5": 238,
+        "total": 271
     },
     "io.snapcraft.blender-tpaw-sPLlatJ5osPKOxDpCPBjLadiHMGt8Ibn": {
         "star0": 0,
@@ -13037,17 +13046,17 @@
         "star2": 0,
         "star3": 0,
         "star4": 0,
-        "star5": 2,
-        "total": 3
+        "star5": 3,
+        "total": 4
     },
     "io.snapcraft.boxy-svg-rQhH2kW1S3Zfe74DGv0QLusmqgsO3sZW": {
         "star0": 0,
-        "star1": 2,
+        "star1": 3,
         "star2": 0,
         "star3": 2,
         "star4": 7,
         "star5": 16,
-        "total": 27
+        "total": 28
     },
     "io.snapcraft.brackets-NbcB8ZtSfH5bQIfyRynnlBeIIOyGurxD": {
         "star0": 0,
@@ -13082,8 +13091,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 2,
-        "star5": 9,
-        "total": 12
+        "star5": 10,
+        "total": 13
     },
     "io.snapcraft.briss-SFuXrreQ5QeUBUSeLecvZhg8Oz7DtgTn": {
         "star0": 0,
@@ -13096,12 +13105,12 @@
     },
     "io.snapcraft.brook-dx2V3tMl2WDIeDgrV0q6SXnvMbjrVZmf": {
         "star0": 0,
-        "star1": 4,
+        "star1": 5,
         "star2": 2,
         "star3": 0,
         "star4": 1,
         "star5": 0,
-        "total": 7
+        "total": 8
     },
     "io.snapcraft.bucklespring-CO32kLkN1mQYuQbUiux9xO4SzEFlnVZp": {
         "star0": 0,
@@ -13341,10 +13350,10 @@
         "star0": 0,
         "star1": 113,
         "star2": 81,
-        "star3": 61,
+        "star3": 62,
         "star4": 80,
-        "star5": 383,
-        "total": 718
+        "star5": 384,
+        "total": 720
     },
     "io.snapcraft.chromium-ffmpeg-XXzVIXswXKHqlUATPqGCj2w2l7BxosS8": {
         "star0": 0,
@@ -13402,12 +13411,12 @@
     },
     "io.snapcraft.climate-trail-3xxDsHs9oCVQuvf5L8KTJ1BOKtzsbC8e": {
         "star0": 0,
-        "star1": 10,
+        "star1": 11,
         "star2": 1,
         "star3": 1,
         "star4": 9,
         "star5": 1,
-        "total": 22
+        "total": 23
     },
     "io.snapcraft.clion-6JBjLwyVchga4cOSDqhWJd9NgQfrTYam": {
         "star0": 0,
@@ -13514,8 +13523,8 @@
         "star2": 7,
         "star3": 21,
         "star4": 35,
-        "star5": 625,
-        "total": 730
+        "star5": 626,
+        "total": 731
     },
     "io.snapcraft.code-insiders-vNVY8DiBL4e2Q8H3Xtsh71c8QSTaxBdp": {
         "star0": 0,
@@ -13639,9 +13648,9 @@
         "star1": 1,
         "star2": 0,
         "star3": 1,
-        "star4": 6,
-        "star5": 69,
-        "total": 77
+        "star4": 7,
+        "star5": 70,
+        "total": 79
     },
     "io.snapcraft.coolreader3-QBjCaQI57AyEiRIWxRGysCZ0Z2llyx6q": {
         "star0": 0,
@@ -13667,8 +13676,8 @@
         "star2": 0,
         "star3": 1,
         "star4": 0,
-        "star5": 2,
-        "total": 4
+        "star5": 3,
+        "total": 5
     },
     "io.snapcraft.coronabar-SLs8ANq44Q46iEgZ2kVOsNfxjwqZ6QC3": {
         "star0": 0,
@@ -13681,12 +13690,12 @@
     },
     "io.snapcraft.covidgame-FllZPl7QSgnka21WNTxH0QUwamidsEqT": {
         "star0": 0,
-        "star1": 1,
+        "star1": 2,
         "star2": 0,
         "star3": 0,
         "star4": 0,
         "star5": 1,
-        "total": 2
+        "total": 3
     },
     "io.snapcraft.cpc-trello-rEBbi4K2UzPWIuRV3Qsy0KSN2ojqOIuF": {
         "star0": 0,
@@ -13825,12 +13834,12 @@
     },
     "io.snapcraft.datagrip-UueDuFgOtZpJgI0RDYnfpRL0QVOV08si": {
         "star0": 0,
-        "star1": 7,
+        "star1": 8,
         "star2": 1,
         "star3": 1,
         "star4": 4,
         "star5": 17,
-        "total": 30
+        "total": 31
     },
     "io.snapcraft.dav1d-Jp5yUMwb0ri5Px5qX0OErICBJhkAdZkc": {
         "star0": 0,
@@ -13908,10 +13917,10 @@
         "star0": 0,
         "star1": 20,
         "star2": 8,
-        "star3": 3,
+        "star3": 4,
         "star4": 2,
         "star5": 3,
-        "total": 36
+        "total": 37
     },
     "io.snapcraft.deezer-unofficial-player-nTplSOv0pwWSH6ALvdHSSXOoyUvD1jjV": {
         "star0": 0,
@@ -14018,8 +14027,8 @@
         "star2": 16,
         "star3": 21,
         "star4": 20,
-        "star5": 219,
-        "total": 316
+        "star5": 220,
+        "total": 317
     },
     "io.snapcraft.disk-space-saver-bhM50YIQql04pvc9D8Xy5VteWw8648wJ": {
         "star0": 0,
@@ -14131,12 +14140,12 @@
     },
     "io.snapcraft.douban-fm-edNlD31QnqVCHcvybu1ik6d6f36iapvJ": {
         "star0": 0,
-        "star1": 3,
+        "star1": 4,
         "star2": 0,
         "star3": 0,
         "star4": 0,
         "star5": 0,
-        "total": 3
+        "total": 4
     },
     "io.snapcraft.dragon-DNvSY2xZeNiw2e07FD8oOBnwxo5iufC5": {
         "star0": 0,
@@ -14340,10 +14349,10 @@
         "star0": 0,
         "star1": 15,
         "star2": 4,
-        "star3": 9,
+        "star3": 10,
         "star4": 14,
         "star5": 79,
-        "total": 121
+        "total": 122
     },
     "io.snapcraft.electrum-arteQqwdIGwtP3ETSe58cRbhdsa9oS4z": {
         "star0": 0,
@@ -14484,10 +14493,10 @@
         "star0": 0,
         "star1": 19,
         "star2": 9,
-        "star3": 10,
+        "star3": 11,
         "star4": 15,
         "star5": 31,
-        "total": 84
+        "total": 85
     },
     "io.snapcraft.exelearning-5E9H1Z60DLeM1oh9Moy9blNppI3e4Ha1": {
         "star0": 0,
@@ -14585,8 +14594,8 @@
         "star2": 3,
         "star3": 4,
         "star4": 0,
-        "star5": 4,
-        "total": 16
+        "star5": 5,
+        "total": 17
     },
     "io.snapcraft.ffmpeg-Ee7LGphwQR669pcfCCdl0oJQouta69to": {
         "star0": 0,
@@ -14639,8 +14648,8 @@
         "star2": 39,
         "star3": 42,
         "star4": 33,
-        "star5": 161,
-        "total": 368
+        "star5": 162,
+        "total": 369
     },
     "io.snapcraft.five-or-more-ktlKRl4wrqA8o9vUKaSN6fDu8WamChnp": {
         "star0": 0,
@@ -14720,8 +14729,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 0,
-        "star5": 5,
-        "total": 6
+        "star5": 6,
+        "total": 7
     },
     "io.snapcraft.flutter-gallery-ibbpk78Tfx7hWlik9UsTdqNBOiHFiGsK": {
         "star0": 0,
@@ -15134,8 +15143,8 @@
         "star2": 19,
         "star3": 23,
         "star4": 36,
-        "star5": 370,
-        "total": 483
+        "star5": 372,
+        "total": 485
     },
     "io.snapcraft.gisto-2omriJ286kZhnO4077aYegbqudE91VcO": {
         "star0": 0,
@@ -15557,8 +15566,8 @@
         "star2": 7,
         "star3": 8,
         "star4": 9,
-        "star5": 41,
-        "total": 79
+        "star5": 42,
+        "total": 80
     },
     "io.snapcraft.google-webapp-EqXsLELK90fweHbx53o9EkRC3UNB9E4n": {
         "star0": 0,
@@ -15742,12 +15751,12 @@
     },
     "io.snapcraft.handbrake-jz-FEwKNHxQ7LVb0P1SBvpO0toetKhbvqvy": {
         "star0": 0,
-        "star1": 10,
+        "star1": 11,
         "star2": 3,
         "star3": 0,
         "star4": 2,
         "star5": 22,
-        "total": 37
+        "total": 38
     },
     "io.snapcraft.hangups-xn5RqTltDVZa1JXq3Sjv0pLAR5sWurFw": {
         "star0": 0,
@@ -15809,8 +15818,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 1,
-        "star5": 1,
-        "total": 3
+        "star5": 2,
+        "total": 4
     },
     "io.snapcraft.hexchat-9CYqH3zIyLSmS4NOU54Lkn3cl4ccEmp5": {
         "star0": 0,
@@ -16058,11 +16067,11 @@
     "io.snapcraft.inkscape-tIrcA87dMWthuDORCCRU0VpidK5SBVOc": {
         "star0": 0,
         "star1": 12,
-        "star2": 6,
+        "star2": 7,
         "star3": 11,
         "star4": 15,
         "star5": 158,
-        "total": 202
+        "total": 203
     },
     "io.snapcraft.insomnia-ZtF4mLp5Bededu3S65ocO6HfGXCtcvZ9": {
         "star0": 0,
@@ -16070,8 +16079,8 @@
         "star2": 1,
         "star3": 2,
         "star4": 1,
-        "star5": 38,
-        "total": 45
+        "star5": 39,
+        "total": 46
     },
     "io.snapcraft.instagramport-L5XpDU51XYz63iTzZvuf7rWaRPf2GgVX": {
         "star0": 0,
@@ -16079,8 +16088,8 @@
         "star2": 4,
         "star3": 14,
         "star4": 15,
-        "star5": 27,
-        "total": 66
+        "star5": 28,
+        "total": 67
     },
     "io.snapcraft.instagraph-ZDQ1iJwjyM50MOnWOKwDNtFZmfc9R0A5": {
         "star0": 0,
@@ -16205,8 +16214,8 @@
         "star2": 0,
         "star3": 1,
         "star4": 1,
-        "star5": 13,
-        "total": 19
+        "star5": 15,
+        "total": 21
     },
     "io.snapcraft.jgalaxian-9jo839FX6dw8pXEtEbEzQluiNZonRLAb": {
         "star0": 0,
@@ -16412,17 +16421,17 @@
         "star2": 10,
         "star3": 5,
         "star4": 10,
-        "star5": 39,
-        "total": 74
+        "star5": 40,
+        "total": 75
     },
     "io.snapcraft.kesty-whatsapp-UMXnXAI2qqhpuiWao8QQoB8MHAwyWBe7": {
         "star0": 0,
         "star1": 14,
-        "star2": 6,
+        "star2": 7,
         "star3": 5,
         "star4": 3,
         "star5": 15,
-        "total": 43
+        "total": 44
     },
     "io.snapcraft.kgraphviewer-t4sZLRZlBrxJTPLQZBzMcVQ2iclTeub5": {
         "star0": 0,
@@ -16655,8 +16664,8 @@
         "star2": 0,
         "star3": 2,
         "star4": 5,
-        "star5": 10,
-        "total": 21
+        "star5": 11,
+        "total": 22
     },
     "io.snapcraft.kruler-3KFTK2DR0aNMxKhpHJVkEbFHMvKBtqyA": {
         "star0": 0,
@@ -16709,8 +16718,8 @@
         "star2": 8,
         "star3": 3,
         "star4": 1,
-        "star5": 7,
-        "total": 80
+        "star5": 8,
+        "total": 81
     },
     "io.snapcraft.ktuberling-t5f66jjyRO9q2Z0vc8cByzAbPdGNy5ig": {
         "star0": 0,
@@ -16801,6 +16810,15 @@
         "star4": 0,
         "star5": 2,
         "total": 3
+    },
+    "io.snapcraft.laravel-mhall119-qVgtsnzjicwxKtArgsylTef4JjJSGwcP": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
     },
     "io.snapcraft.large-files-finder-wjtccpxNEf43Ux8IulGSYjWgkyklHCiP": {
         "star0": 0,
@@ -16898,8 +16916,8 @@
         "star2": 18,
         "star3": 15,
         "star4": 33,
-        "star5": 165,
-        "total": 258
+        "star5": 166,
+        "total": 259
     },
     "io.snapcraft.librepcb-F7TeHFwj3wcy6g6aRmdH5ZahJhTUbbZS": {
         "star0": 0,
@@ -16912,12 +16930,12 @@
     },
     "io.snapcraft.libresprite-simosx-4R9q6eb5XPxZy7m6o1rnoZoIzdsDWLeo": {
         "star0": 0,
-        "star1": 3,
+        "star1": 4,
         "star2": 0,
         "star3": 0,
         "star4": 0,
         "star5": 3,
-        "total": 6
+        "total": 7
     },
     "io.snapcraft.liedetector-2EyHuMSD4JFfHpOYxPpDJ3s9c68ZAIgu": {
         "star0": 0,
@@ -17051,8 +17069,8 @@
         "star2": 1,
         "star3": 1,
         "star4": 0,
-        "star5": 0,
-        "total": 8
+        "star5": 1,
+        "total": 9
     },
     "io.snapcraft.lxd-J60k4JY0HppjwOjW8dZdYc8obXKxujRu": {
         "star0": 0,
@@ -17263,12 +17281,12 @@
     },
     "io.snapcraft.mathpix-snipping-tool-jnlZEYdmdXGhh6oJTtMsawNGZzEWmMhk": {
         "star0": 0,
-        "star1": 7,
+        "star1": 8,
         "star2": 0,
         "star3": 1,
         "star4": 0,
         "star5": 17,
-        "total": 25
+        "total": 26
     },
     "io.snapcraft.matroska-tools-JF4RE93E4clsyJAEGglMqAQaESxvyfcz": {
         "star0": 0,
@@ -17429,8 +17447,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 1,
-        "star5": 3,
-        "total": 4
+        "star5": 4,
+        "total": 5
     },
     "io.snapcraft.midori-PZyTTgd3zCbAxCcecqeDgeUPItOv58KT": {
         "star0": 0,
@@ -17443,12 +17461,12 @@
     },
     "io.snapcraft.mindustry-egcej2jJVH601oFOBVHcC0ah90NQ0D3X": {
         "star0": 0,
-        "star1": 4,
+        "star1": 5,
         "star2": 1,
         "star3": 1,
         "star4": 4,
         "star5": 42,
-        "total": 52
+        "total": 53
     },
     "io.snapcraft.minecraft-aJQRf6WPQq04DH0TB2HdTB6K9rf6I1yX": {
         "star0": 0,
@@ -17509,9 +17527,9 @@
         "star1": 36,
         "star2": 6,
         "star3": 24,
-        "star4": 35,
-        "star5": 182,
-        "total": 283
+        "star4": 36,
+        "star5": 184,
+        "total": 286
     },
     "io.snapcraft.minetest-luk3yx-3-1gyryUDeHxUfuhQIc8L8CyB4PClJ9ayN": {
         "star0": 0,
@@ -17762,8 +17780,8 @@
         "star2": 0,
         "star3": 1,
         "star4": 0,
-        "star5": 5,
-        "total": 16
+        "star5": 6,
+        "total": 17
     },
     "io.snapcraft.mpv-casept-0nOh34yKOGyhxVw2ZYEidSi22U7PQacr": {
         "star0": 0,
@@ -17960,8 +17978,8 @@
         "star2": 4,
         "star3": 9,
         "star4": 6,
-        "star5": 13,
-        "total": 54
+        "star5": 15,
+        "total": 56
     },
     "io.snapcraft.natron-tIi6q9HP7YCxEzo5JO6wjhP8KK5941rm": {
         "star0": 0,
@@ -18077,8 +18095,8 @@
         "star2": 12,
         "star3": 2,
         "star4": 6,
-        "star5": 43,
-        "total": 152
+        "star5": 44,
+        "total": 153
     },
     "io.snapcraft.nextcloud-port8080-EZSSrUXlMbXqW3ixGlSG5kGOttgMzi5I": {
         "star0": 0,
@@ -18199,12 +18217,12 @@
     },
     "io.snapcraft.notepad-plus-plus-155ZvKiCILXt4S5Ro8YZmzKHgNPPedVj": {
         "star0": 0,
-        "star1": 69,
+        "star1": 70,
         "star2": 21,
         "star3": 28,
         "star4": 23,
         "star5": 128,
-        "total": 269
+        "total": 270
     },
     "io.snapcraft.notepad-plus-plusminple-VyXmbIEMDZB6WpBJlIkv3l8rLncKfTp4": {
         "star0": 0,
@@ -18253,12 +18271,12 @@
     },
     "io.snapcraft.ntopng-blake-jYRpzCDA7zPOFYlObvxcv8x0oknQhAxM": {
         "star0": 0,
-        "star1": 2,
+        "star1": 3,
         "star2": 0,
         "star3": 0,
         "star4": 0,
         "star5": 0,
-        "total": 2
+        "total": 3
     },
     "io.snapcraft.ntpserver-DnZJpNHfuT4RfH6yJN5zq0EnMsahgf2w": {
         "star0": 0,
@@ -18352,12 +18370,12 @@
     },
     "io.snapcraft.odrive-unofficial-5ndHw0TrKUWxaUgDg3A4VlzKr8whYN4E": {
         "star0": 0,
-        "star1": 108,
+        "star1": 111,
         "star2": 28,
         "star3": 12,
         "star4": 8,
         "star5": 18,
-        "total": 174
+        "total": 177
     },
     "io.snapcraft.odrive-vsSZ2Km9Lbsgmjz78OLymBto47pUNAik": {
         "star0": 0,
@@ -18480,10 +18498,10 @@
         "star0": 0,
         "star1": 61,
         "star2": 28,
-        "star3": 32,
+        "star3": 33,
         "star4": 42,
         "star5": 78,
-        "total": 241
+        "total": 242
     },
     "io.snapcraft.onlyoffice-ds-zZWL0GK8BltYmYJcaTUQro9X2Rd6yVaN": {
         "star0": 0,
@@ -18550,12 +18568,12 @@
     },
     "io.snapcraft.opencomic-CUIbKCoHlOebZyjLkz0nxwskNBwEbboT": {
         "star0": 0,
-        "star1": 5,
+        "star1": 6,
         "star2": 0,
         "star3": 1,
         "star4": 2,
         "star5": 1,
-        "total": 9
+        "total": 10
     },
     "io.snapcraft.opencorsairlink-K4Bl8X9yxbmQT1MEbOIGEmAPNJ2UDbiD": {
         "star0": 0,
@@ -18752,8 +18770,8 @@
         "star2": 20,
         "star3": 41,
         "star4": 53,
-        "star5": 254,
-        "total": 432
+        "star5": 255,
+        "total": 433
     },
     "io.snapcraft.opera-beta-JZjrHIHguJNiC8ctgWi2dRFRb0s7jp2u": {
         "star0": 0,
@@ -18892,12 +18910,12 @@
     },
     "io.snapcraft.paintsupreme-3d-F3FwHKjIhKuCWR2cygfRNAhoGppsRRt6": {
         "star0": 0,
-        "star1": 45,
+        "star1": 46,
         "star2": 1,
         "star3": 1,
         "star4": 0,
         "star5": 1,
-        "total": 48
+        "total": 49
     },
     "io.snapcraft.paladins-pZYfOBFhjbti67Qi9Mnp7tuY6n67M3BH": {
         "star0": 0,
@@ -19288,12 +19306,12 @@
     },
     "io.snapcraft.postgresql10-W7TagWOq55vJphD3Ek4ZUtQytGRMeQqK": {
         "star0": 0,
-        "star1": 9,
+        "star1": 10,
         "star2": 1,
         "star3": 0,
         "star4": 0,
         "star5": 3,
-        "total": 13
+        "total": 14
     },
     "io.snapcraft.postgresql94-uGPNhSRJ9EjdUR2tQlM8viGtlpGOcRpZ": {
         "star0": 0,
@@ -19306,12 +19324,12 @@
     },
     "io.snapcraft.postman-fFcOtEEF4EdyYb95IUE5Isy28tICYMLf": {
         "star0": 0,
-        "star1": 49,
+        "star1": 50,
         "star2": 14,
         "star3": 17,
         "star4": 19,
         "star5": 92,
-        "total": 191
+        "total": 192
     },
     "io.snapcraft.powershell-JSNnoJl3EqkMuWoy5Dgq8PMqZ0uNcpie": {
         "star0": 0,
@@ -19372,9 +19390,9 @@
         "star1": 1,
         "star2": 5,
         "star3": 2,
-        "star4": 3,
+        "star4": 4,
         "star5": 6,
-        "total": 17
+        "total": 18
     },
     "io.snapcraft.prospect-mail-ayYEnTUghgNUVwV5qAYugdfxikzAcSRM": {
         "star0": 0,
@@ -19382,8 +19400,8 @@
         "star2": 7,
         "star3": 7,
         "star4": 4,
-        "star5": 18,
-        "total": 55
+        "star5": 19,
+        "total": 56
     },
     "io.snapcraft.protogrid-A4GCcvVLoWS6k25Pe6sK3GPrF6y62PcV": {
         "star0": 0,
@@ -19452,10 +19470,10 @@
         "star0": 0,
         "star1": 18,
         "star2": 6,
-        "star3": 8,
+        "star3": 9,
         "star4": 15,
         "star5": 167,
-        "total": 214
+        "total": 215
     },
     "io.snapcraft.pycharm-educational-Oo1l4VUHaDaLM2etpSQkrXf7dAIFGgkq": {
         "star0": 0,
@@ -19841,8 +19859,8 @@
         "star2": 15,
         "star3": 15,
         "star4": 26,
-        "star5": 63,
-        "total": 154
+        "star5": 64,
+        "total": 155
     },
     "io.snapcraft.robo3t-snap-vxeFJGENlV60mi5XjCWUgprLOy4wvCps": {
         "star0": 0,
@@ -20228,8 +20246,8 @@
         "star2": 2,
         "star3": 2,
         "star4": 1,
-        "star5": 33,
-        "total": 42
+        "star5": 34,
+        "total": 43
     },
     "io.snapcraft.shotcut-QbcwWzVel4jXFaSClk6oiPpN3GCTXwvi": {
         "star0": 0,
@@ -20282,8 +20300,8 @@
         "star2": 4,
         "star3": 5,
         "star4": 8,
-        "star5": 58,
-        "total": 80
+        "star5": 59,
+        "total": 81
     },
     "io.snapcraft.simplescreenrecorder-D1RywxDH5MyBrKjkT546DdfxIgxOaoJs": {
         "star0": 0,
@@ -20368,12 +20386,12 @@
     },
     "io.snapcraft.slack-JUJH91Ved74jd4ZgJCpzMBtYbPOzTlsD": {
         "star0": 0,
-        "star1": 88,
-        "star2": 32,
+        "star1": 92,
+        "star2": 33,
         "star3": 24,
         "star4": 15,
         "star5": 59,
-        "total": 218
+        "total": 223
     },
     "io.snapcraft.slack-term-lSFqIFbqUTX2YpTYIyWoVtFjc5sN0FQa": {
         "star0": 0,
@@ -20444,8 +20462,8 @@
         "star2": 14,
         "star3": 11,
         "star4": 10,
-        "star5": 38,
-        "total": 105
+        "star5": 39,
+        "total": 106
     },
     "io.snapcraft.snapcraft-vMTKRaLjnOJQetI78HjntT37VuoyssFE": {
         "star0": 0,
@@ -20479,9 +20497,9 @@
         "star1": 0,
         "star2": 0,
         "star3": 0,
-        "star4": 2,
+        "star4": 3,
         "star5": 8,
-        "total": 10
+        "total": 11
     },
     "io.snapcraft.software-boutique-YaXXC0F47JHW71NlT31UQ2ZYDZ7Vj9l6": {
         "star0": 0,
@@ -20561,8 +20579,8 @@
         "star2": 1,
         "star3": 0,
         "star4": 2,
-        "star5": 6,
-        "total": 12
+        "star5": 7,
+        "total": 13
     },
     "io.snapcraft.space-h2GSR1wZNkxXqL4g6jfQichyULVb2ucl": {
         "star0": 0,
@@ -20630,11 +20648,11 @@
     "io.snapcraft.spotify-pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7": {
         "star0": 0,
         "star1": 123,
-        "star2": 80,
+        "star2": 81,
         "star3": 80,
         "star4": 97,
-        "star5": 341,
-        "total": 721
+        "star5": 343,
+        "total": 724
     },
     "io.snapcraft.spotifyd-xJPc9fRYUFNV7xAFLDpo62CVHHl7djZK": {
         "star0": 0,
@@ -20714,8 +20732,8 @@
         "star2": 4,
         "star3": 4,
         "star4": 4,
-        "star5": 32,
-        "total": 49
+        "star5": 33,
+        "total": 50
     },
     "io.snapcraft.starruler2-SJa6RDP1LVtHMkJG56zPKTb9bn6mkdhW": {
         "star0": 0,
@@ -20831,8 +20849,8 @@
         "star2": 3,
         "star3": 5,
         "star4": 29,
-        "star5": 301,
-        "total": 348
+        "star5": 303,
+        "total": 350
     },
     "io.snapcraft.subliminal-subtitles-ANx1ZKmaQUqDNL9Mkp77ZUARpmVevcuV": {
         "star0": 0,
@@ -20978,6 +20996,15 @@
         "star5": 30,
         "total": 43
     },
+    "io.snapcraft.swell-foop-2lE1u3NdXwGavxA0rtL3krvU2lcidQg8": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 1,
+        "star3": 2,
+        "star4": 4,
+        "star5": 2,
+        "total": 9
+    },
     "io.snapcraft.swi-prolog-gJpgtAlVPreJfIrAMNnYoJqhz17ui0gk": {
         "star0": 0,
         "star1": 3,
@@ -21081,10 +21108,10 @@
         "star0": 0,
         "star1": 6,
         "star2": 4,
-        "star3": 4,
+        "star3": 5,
         "star4": 5,
         "star5": 11,
-        "total": 30
+        "total": 31
     },
     "io.snapcraft.taskline-UVO3LA7LireNxDEfcwIoE1S9ZLgtMF8v": {
         "star0": 0,
@@ -21094,6 +21121,15 @@
         "star4": 1,
         "star5": 3,
         "total": 4
+    },
+    "io.snapcraft.tastyworks-unofficial-RmGwohwpZbZFMXU1Ez9oYHhztIjTHpQA": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
     },
     "io.snapcraft.tauon-5Nb8PtkFT6rbTBTHg9t6FWUJwtb7CMzI": {
         "star0": 0,
@@ -21358,12 +21394,12 @@
     },
     "io.snapcraft.thunderbird-k1Ml1O9GzSO2QftV0ZlWSbUfQ78nN460": {
         "star0": 0,
-        "star1": 50,
+        "star1": 51,
         "star2": 17,
         "star3": 15,
         "star4": 18,
         "star5": 38,
-        "total": 138
+        "total": 139
     },
     "io.snapcraft.thunderdocs-7WLQckOAuwBM7c8y1wcl0YOuEJsvgi9u": {
         "star0": 0,
@@ -21466,12 +21502,12 @@
     },
     "io.snapcraft.todoist-thibaut-mtgJB2tZdVc6bytskxjlyOQFa7zvhzQf": {
         "star0": 0,
-        "star1": 35,
+        "star1": 36,
         "star2": 9,
         "star3": 2,
         "star4": 1,
         "star5": 2,
-        "total": 49
+        "total": 50
     },
     "io.snapcraft.toggldesktop-Bm72DXX5OY6eWqWeyoxMaikWYkqljcfs": {
         "star0": 0,
@@ -21641,8 +21677,8 @@
         "star2": 0,
         "star3": 3,
         "star4": 1,
-        "star5": 13,
-        "total": 18
+        "star5": 14,
+        "total": 19
     },
     "io.snapcraft.twist-z03KCkpiJ1Fk4X6f94uOcDUYOb6MRxu4": {
         "star0": 0,
@@ -21962,11 +21998,11 @@
     "io.snapcraft.v2ray-core-nFLCyUIqyGFDHXUOR5YxYUq1yCJ7vKV3": {
         "star0": 0,
         "star1": 9,
-        "star2": 1,
+        "star2": 2,
         "star3": 2,
         "star4": 0,
         "star5": 1,
-        "total": 13
+        "total": 14
     },
     "io.snapcraft.v2ray-j76cIDzYqIQy9ICRyBE20WByCKAgOtZ8": {
         "star0": 0,
@@ -22015,12 +22051,12 @@
     },
     "io.snapcraft.viber-mtd-QlLMSmnpNMsdj372ergEENCfcgdFQlZp": {
         "star0": 0,
-        "star1": 61,
-        "star2": 15,
+        "star1": 62,
+        "star2": 16,
         "star3": 7,
         "star4": 5,
         "star5": 19,
-        "total": 107
+        "total": 109
     },
     "io.snapcraft.viber-unofficial-wsV9Dz4KWPLHkVSZ958PPDvyMYMikd2i": {
         "star0": 0,
@@ -22127,8 +22163,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 0,
-        "star5": 4,
-        "total": 5
+        "star5": 5,
+        "total": 6
     },
     "io.snapcraft.vkquake-Dn6dil4p08dlFtFpX0Uyn4NRgaTc6EOa": {
         "star0": 0,
@@ -22145,17 +22181,17 @@
         "star2": 38,
         "star3": 59,
         "star4": 81,
-        "star5": 885,
-        "total": 1177
+        "star5": 888,
+        "total": 1180
     },
     "io.snapcraft.vokoscreen-ng-rAZYDmjzqT10WPuR5uIbPVzjLb9VFWsn": {
         "star0": 0,
         "star1": 8,
         "star2": 7,
         "star3": 1,
-        "star4": 2,
+        "star4": 3,
         "star5": 11,
-        "total": 29
+        "total": 30
     },
     "io.snapcraft.vpv-agbLYGxbFd6AeXZu6YjswavZiYlJRQQ6": {
         "star0": 0,
@@ -22379,8 +22415,8 @@
         "star2": 34,
         "star3": 42,
         "star4": 46,
-        "star5": 124,
-        "total": 300
+        "star5": 126,
+        "total": 302
     },
     "io.snapcraft.whipper-Z51iuBORN188ByslnbNH3STX3rVvXAhn": {
         "star0": 0,
@@ -22519,12 +22555,12 @@
     },
     "io.snapcraft.wireguard-ammp-UUlW9dphSJSVtjaDeq0ec3i40OM6pSyh": {
         "star0": 0,
-        "star1": 31,
+        "star1": 32,
         "star2": 3,
         "star3": 2,
         "star4": 2,
         "star5": 5,
-        "total": 43
+        "total": 44
     },
     "io.snapcraft.wireguard-fenriswolf-vreTphjDoEcyiGRSkicoNrpvBnKzdzwK": {
         "star0": 0,
@@ -22537,12 +22573,12 @@
     },
     "io.snapcraft.woe-usb-qwTyhEBfj0nGRP0Pyi3XQWtUSqlZokob": {
         "star0": 0,
-        "star1": 362,
-        "star2": 15,
+        "star1": 367,
+        "star2": 16,
         "star3": 17,
         "star4": 11,
         "star5": 34,
-        "total": 439
+        "total": 445
     },
     "io.snapcraft.wonder-reader-nlXBasa0yY4rv226ujsxGFYewQDKefj2": {
         "star0": 0,
@@ -22556,11 +22592,11 @@
     "io.snapcraft.wonderwall-dTUYjQSnIgQUyVp54XoO5SwD1xkn4hzA": {
         "star0": 0,
         "star1": 30,
-        "star2": 8,
+        "star2": 9,
         "star3": 7,
         "star4": 8,
         "star5": 25,
-        "total": 78
+        "total": 79
     },
     "io.snapcraft.wordpress-desktop-JTB9j22bubJxMtkh56txeodPvguTmSys": {
         "star0": 0,
@@ -22726,12 +22762,12 @@
     },
     "io.snapcraft.yakuake-2CqKgzeOuObewuMtLgtsmBGgBiJboChy": {
         "star0": 0,
-        "star1": 4,
+        "star1": 5,
         "star2": 1,
         "star3": 1,
         "star4": 0,
         "star5": 2,
-        "total": 8
+        "total": 9
     },
     "io.snapcraft.yakyak-ZjYE4QRDx4HERZ9yV0FX7FgXIWXm0hZ3": {
         "star0": 0,
@@ -22820,8 +22856,8 @@
         "star2": 5,
         "star3": 6,
         "star4": 15,
-        "star5": 46,
-        "total": 92
+        "star5": 47,
+        "total": 93
     },
     "io.snapcraft.youtubeport-sCERQA87KDoMbP5stfowg242QFfVa8tY": {
         "star0": 0,
@@ -22937,8 +22973,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 1,
-        "star5": 1,
-        "total": 2
+        "star5": 2,
+        "total": 3
     },
     "io.snapcraft.zotero-snap-atdqTPsFer1lIGP6OI4LXOzTLA0ZiOhK": {
         "star0": 0,
@@ -23403,10 +23439,10 @@
         "star0": 0,
         "star1": 38,
         "star2": 16,
-        "star3": 18,
+        "star3": 19,
         "star4": 14,
         "star5": 67,
-        "total": 153
+        "total": 154
     },
     "kdevelop.desktop": {
         "star0": 0,
@@ -23477,8 +23513,8 @@
         "star2": 10,
         "star3": 5,
         "star4": 10,
-        "star5": 39,
-        "total": 74
+        "star5": 40,
+        "total": 75
     },
     "keepnote.desktop": {
         "star0": 0,
@@ -23747,8 +23783,8 @@
         "star2": 0,
         "star3": 2,
         "star4": 5,
-        "star5": 10,
-        "total": 21
+        "star5": 11,
+        "total": 22
     },
     "kruler.desktop": {
         "star0": 0,
@@ -23774,8 +23810,8 @@
         "star2": 0,
         "star3": 2,
         "star4": 0,
-        "star5": 11,
-        "total": 15
+        "star5": 12,
+        "total": 16
     },
     "ksnip.desktop": {
         "star0": 0,
@@ -23783,8 +23819,8 @@
         "star2": 1,
         "star3": 2,
         "star4": 1,
-        "star5": 16,
-        "total": 24
+        "star5": 17,
+        "total": 25
     },
     "ktouch.desktop": {
         "star0": 0,
@@ -24251,8 +24287,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 2,
-        "star5": 5,
-        "total": 7
+        "star5": 6,
+        "total": 8
     },
     "lollypop.desktop": {
         "star0": 0,
@@ -24787,12 +24823,12 @@
     },
     "matlab.desktop": {
         "star0": 0,
-        "star1": 15,
+        "star1": 16,
         "star2": 3,
         "star3": 2,
         "star4": 3,
         "star5": 18,
-        "total": 41
+        "total": 42
     },
     "maximus-two_wilfinitlike.gmail.com": {
         "star0": 0,
@@ -25079,8 +25115,8 @@
         "star2": 0,
         "star3": 1,
         "star4": 0,
-        "star5": 0,
-        "total": 2
+        "star5": 1,
+        "total": 3
     },
     "mindmaster.desktop": {
         "star0": 0,
@@ -25132,18 +25168,18 @@
         "star1": 19,
         "star2": 4,
         "star3": 16,
-        "star4": 15,
+        "star4": 16,
         "star5": 70,
-        "total": 124
+        "total": 125
     },
     "minitube.desktop": {
         "star0": 0,
-        "star1": 46,
+        "star1": 47,
         "star2": 14,
         "star3": 5,
         "star4": 2,
         "star5": 6,
-        "total": 73
+        "total": 74
     },
     "mirage.desktop": {
         "star0": 0,
@@ -25291,12 +25327,12 @@
     },
     "mozilla-thunderbird.desktop": {
         "star0": 0,
-        "star1": 4,
+        "star1": 5,
         "star2": 2,
         "star3": 5,
         "star4": 6,
         "star5": 60,
-        "total": 77
+        "total": 78
     },
     "mozo.desktop": {
         "star0": 0,
@@ -25491,10 +25527,10 @@
         "star0": 0,
         "star1": 26,
         "star2": 3,
-        "star3": 6,
+        "star3": 7,
         "star4": 12,
-        "star5": 53,
-        "total": 100
+        "star5": 54,
+        "total": 102
     },
     "mysql-workbench.desktop": {
         "star0": 0,
@@ -25570,12 +25606,12 @@
     },
     "nemo.desktop": {
         "star0": 0,
-        "star1": 4,
+        "star1": 5,
         "star2": 4,
         "star3": 2,
         "star4": 3,
         "star5": 32,
-        "total": 45
+        "total": 46
     },
     "nestopia.desktop": {
         "star0": 0,
@@ -25592,8 +25628,8 @@
         "star2": 2,
         "star3": 3,
         "star4": 4,
-        "star5": 39,
-        "total": 63
+        "star5": 40,
+        "total": 64
     },
     "net.ankiweb.Anki.desktop": {
         "star0": 0,
@@ -25723,12 +25759,12 @@
     },
     "net.launchpad.xpad": {
         "star0": 0,
-        "star1": 5,
+        "star1": 6,
         "star2": 0,
         "star3": 2,
         "star4": 1,
         "star5": 8,
-        "total": 16
+        "total": 17
     },
     "net.lutris.Lutris": {
         "star0": 0,
@@ -25789,9 +25825,9 @@
         "star1": 43,
         "star2": 6,
         "star3": 26,
-        "star4": 38,
-        "star5": 199,
-        "total": 312
+        "star4": 40,
+        "star5": 201,
+        "total": 316
     },
     "net.minetest.Minetest.desktop": {
         "star0": 0,
@@ -26014,9 +26050,9 @@
         "star1": 1,
         "star2": 2,
         "star3": 0,
-        "star4": 0,
+        "star4": 1,
         "star5": 1,
-        "total": 4
+        "total": 5
     },
     "net.sourceforge.btanks": {
         "star0": 0,
@@ -26141,8 +26177,8 @@
         "star2": 6,
         "star3": 11,
         "star4": 27,
-        "star5": 196,
-        "total": 257
+        "star5": 198,
+        "total": 259
     },
     "net.supertuxkart.SuperTuxKart.desktop": {
         "star0": 0,
@@ -26150,8 +26186,8 @@
         "star2": 1,
         "star3": 1,
         "star4": 0,
-        "star5": 23,
-        "total": 26
+        "star5": 25,
+        "total": 28
     },
     "net.veloren.veloren": {
         "star0": 0,
@@ -26570,11 +26606,11 @@
     "nvidia-settings.desktop": {
         "star0": 0,
         "star1": 182,
-        "star2": 22,
+        "star2": 23,
         "star3": 15,
         "star4": 15,
         "star5": 51,
-        "total": 285
+        "total": 286
     },
     "nvidiatemp_baco": {
         "star0": 0,
@@ -26591,8 +26627,8 @@
         "star2": 3,
         "star3": 1,
         "star4": 2,
-        "star5": 7,
-        "total": 22
+        "star5": 8,
+        "total": 23
     },
     "nvtv.desktop": {
         "star0": 0,
@@ -26618,8 +26654,8 @@
         "star2": 1,
         "star3": 1,
         "star4": 6,
-        "star5": 21,
-        "total": 38
+        "star5": 22,
+        "total": 39
     },
     "ocrfeeder.desktop": {
         "star0": 0,
@@ -27005,8 +27041,8 @@
         "star2": 20,
         "star3": 41,
         "star4": 53,
-        "star5": 254,
-        "total": 432
+        "star5": 255,
+        "total": 433
     },
     "optgeo.desktop": {
         "star0": 0,
@@ -27024,6 +27060,15 @@
         "star3": 0,
         "star4": 0,
         "star5": 1,
+        "total": 2
+    },
+    "orca.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
         "total": 2
     },
     "oregano.desktop": {
@@ -27095,8 +27140,8 @@
         "star2": 16,
         "star3": 12,
         "star4": 20,
-        "star5": 112,
-        "total": 181
+        "star5": 113,
+        "total": 182
     },
     "org.audacityteam.Audacity.desktop": {
         "star0": 0,
@@ -27104,8 +27149,8 @@
         "star2": 9,
         "star3": 8,
         "star4": 13,
-        "star5": 56,
-        "total": 100
+        "star5": 57,
+        "total": 101
     },
     "org.avidemux.Avidemux": {
         "star0": 0,
@@ -27158,8 +27203,8 @@
         "star2": 11,
         "star3": 12,
         "star4": 32,
-        "star5": 450,
-        "total": 533
+        "star5": 451,
+        "total": 534
     },
     "org.blender.Blender.desktop": {
         "star0": 0,
@@ -27383,8 +27428,8 @@
         "star2": 6,
         "star3": 12,
         "star4": 17,
-        "star5": 99,
-        "total": 156
+        "star5": 100,
+        "total": 157
     },
     "org.filezillaproject.Filezilla.desktop": {
         "star0": 0,
@@ -27518,8 +27563,8 @@
         "star2": 2,
         "star3": 3,
         "star4": 4,
-        "star5": 7,
-        "total": 22
+        "star5": 8,
+        "total": 23
     },
     "org.freedesktop.Piper.desktop": {
         "star0": 0,
@@ -27527,8 +27572,8 @@
         "star2": 2,
         "star3": 3,
         "star4": 4,
-        "star5": 7,
-        "total": 22
+        "star5": 8,
+        "total": 23
     },
     "org.freefilesync.FreeFileSync": {
         "star0": 0,
@@ -27561,19 +27606,19 @@
         "star0": 0,
         "star1": 1,
         "star2": 0,
-        "star3": 2,
+        "star3": 3,
         "star4": 1,
         "star5": 6,
-        "total": 10
+        "total": 11
     },
     "org.gabmus.gfeeds.desktop": {
         "star0": 0,
         "star1": 1,
         "star2": 0,
-        "star3": 2,
+        "star3": 3,
         "star4": 1,
         "star5": 6,
-        "total": 10
+        "total": 11
     },
     "org.gabmus.hydrapaper": {
         "star0": 0,
@@ -27609,6 +27654,15 @@
         "star3": 0,
         "star4": 1,
         "star5": 1,
+        "total": 2
+    },
+    "org.gabmus.whatip": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 1,
+        "star4": 1,
+        "star5": 0,
         "total": 2
     },
     "org.gajim.Gajim": {
@@ -27671,8 +27725,8 @@
         "star2": 26,
         "star3": 39,
         "star4": 61,
-        "star5": 546,
-        "total": 724
+        "star5": 548,
+        "total": 726
     },
     "org.gimp.GIMP.desktop": {
         "star0": 0,
@@ -27680,8 +27734,8 @@
         "star2": 15,
         "star3": 19,
         "star4": 26,
-        "star5": 260,
-        "total": 342
+        "star5": 262,
+        "total": 344
     },
     "org.gimp.PhotoGIMP": {
         "star0": 0,
@@ -27707,8 +27761,8 @@
         "star2": 5,
         "star3": 7,
         "star4": 5,
-        "star5": 46,
-        "total": 109
+        "star5": 47,
+        "total": 110
     },
     "org.glimpse_editor.Glimpse.desktop": {
         "star0": 0,
@@ -27716,8 +27770,8 @@
         "star2": 5,
         "star3": 7,
         "star4": 5,
-        "star5": 46,
-        "total": 109
+        "star5": 47,
+        "total": 110
     },
     "org.gna.Warmux": {
         "star0": 0,
@@ -27739,12 +27793,12 @@
     },
     "org.gnome.Aisleriot": {
         "star0": 0,
-        "star1": 10,
+        "star1": 11,
         "star2": 2,
         "star3": 8,
         "star4": 5,
         "star5": 33,
-        "total": 58
+        "total": 59
     },
     "org.gnome.Aisleriot.desktop": {
         "star0": 0,
@@ -27775,21 +27829,21 @@
     },
     "org.gnome.Boxes": {
         "star0": 0,
-        "star1": 54,
+        "star1": 55,
         "star2": 33,
         "star3": 31,
         "star4": 45,
         "star5": 79,
-        "total": 242
+        "total": 243
     },
     "org.gnome.Boxes.desktop": {
         "star0": 0,
-        "star1": 54,
+        "star1": 55,
         "star2": 33,
         "star3": 31,
         "star4": 45,
         "star5": 79,
-        "total": 242
+        "total": 243
     },
     "org.gnome.Builder": {
         "star0": 0,
@@ -27973,75 +28027,75 @@
     },
     "org.gnome.Eolie": {
         "star0": 0,
-        "star1": 1,
+        "star1": 2,
         "star2": 1,
         "star3": 1,
         "star4": 9,
         "star5": 3,
-        "total": 15
+        "total": 16
     },
     "org.gnome.Eolie.desktop": {
         "star0": 0,
-        "star1": 1,
+        "star1": 2,
         "star2": 1,
         "star3": 1,
         "star4": 9,
         "star5": 3,
-        "total": 15
+        "total": 16
     },
     "org.gnome.Epiphany": {
         "star0": 0,
         "star1": 39,
         "star2": 20,
         "star3": 45,
-        "star4": 59,
+        "star4": 60,
         "star5": 69,
-        "total": 232
+        "total": 233
     },
     "org.gnome.Epiphany.desktop": {
         "star0": 0,
         "star1": 27,
         "star2": 13,
         "star3": 29,
-        "star4": 37,
+        "star4": 38,
         "star5": 49,
-        "total": 155
+        "total": 156
     },
     "org.gnome.Evince": {
         "star0": 0,
-        "star1": 31,
+        "star1": 32,
         "star2": 22,
-        "star3": 26,
+        "star3": 27,
         "star4": 33,
         "star5": 85,
-        "total": 197
+        "total": 199
     },
     "org.gnome.Evince.desktop": {
         "star0": 0,
-        "star1": 9,
+        "star1": 10,
         "star2": 6,
         "star3": 11,
         "star4": 14,
         "star5": 36,
-        "total": 76
+        "total": 77
     },
     "org.gnome.Evolution": {
         "star0": 0,
         "star1": 15,
         "star2": 10,
         "star3": 20,
-        "star4": 26,
+        "star4": 27,
         "star5": 93,
-        "total": 164
+        "total": 165
     },
     "org.gnome.Evolution.desktop": {
         "star0": 0,
         "star1": 15,
         "star2": 10,
         "star3": 20,
-        "star4": 26,
+        "star4": 27,
         "star5": 93,
-        "total": 164
+        "total": 165
     },
     "org.gnome.Extensions": {
         "star0": 0,
@@ -28058,8 +28112,8 @@
         "star2": 7,
         "star3": 9,
         "star4": 5,
-        "star5": 19,
-        "total": 48
+        "star5": 20,
+        "total": 49
     },
     "org.gnome.FeedReader.desktop": {
         "star0": 0,
@@ -28067,8 +28121,8 @@
         "star2": 7,
         "star3": 9,
         "star4": 2,
-        "star5": 15,
-        "total": 37
+        "star5": 16,
+        "total": 38
     },
     "org.gnome.FileRoller": {
         "star0": 0,
@@ -28514,38 +28568,38 @@
     "org.gnome.PasswordSafe": {
         "star0": 0,
         "star1": 3,
-        "star2": 5,
+        "star2": 6,
         "star3": 4,
         "star4": 5,
         "star5": 11,
-        "total": 28
+        "total": 29
     },
     "org.gnome.PasswordSafe.desktop": {
         "star0": 0,
         "star1": 3,
-        "star2": 5,
+        "star2": 6,
         "star3": 4,
         "star4": 5,
         "star5": 11,
-        "total": 28
+        "total": 29
     },
     "org.gnome.Photos": {
         "star0": 0,
-        "star1": 19,
+        "star1": 20,
         "star2": 17,
         "star3": 17,
         "star4": 7,
         "star5": 7,
-        "total": 67
+        "total": 68
     },
     "org.gnome.Photos.desktop": {
         "star0": 0,
-        "star1": 19,
+        "star1": 20,
         "star2": 17,
         "star3": 17,
         "star4": 7,
         "star5": 7,
-        "total": 67
+        "total": 68
     },
     "org.gnome.Podcasts": {
         "star0": 0,
@@ -28585,21 +28639,21 @@
     },
     "org.gnome.Pomodoro": {
         "star0": 0,
-        "star1": 51,
+        "star1": 52,
         "star2": 9,
         "star3": 5,
         "star4": 7,
-        "star5": 73,
-        "total": 145
+        "star5": 74,
+        "total": 147
     },
     "org.gnome.Pomodoro.desktop": {
         "star0": 0,
-        "star1": 51,
+        "star1": 52,
         "star2": 9,
         "star3": 5,
         "star4": 7,
-        "star5": 73,
-        "total": 145
+        "star5": 74,
+        "total": 147
     },
     "org.gnome.PowerStats.desktop": {
         "star0": 0,
@@ -28855,21 +28909,21 @@
     },
     "org.gnome.Totem": {
         "star0": 0,
-        "star1": 168,
+        "star1": 169,
         "star2": 40,
         "star3": 28,
         "star4": 21,
         "star5": 49,
-        "total": 306
+        "total": 307
     },
     "org.gnome.Totem.desktop": {
         "star0": 0,
-        "star1": 168,
+        "star1": 169,
         "star2": 40,
         "star3": 28,
         "star4": 21,
         "star5": 49,
-        "total": 306
+        "total": 307
     },
     "org.gnome.TwentyFortyEight": {
         "star0": 0,
@@ -28877,8 +28931,8 @@
         "star2": 2,
         "star3": 2,
         "star4": 4,
-        "star5": 16,
-        "total": 24
+        "star5": 17,
+        "total": 25
     },
     "org.gnome.TwentyFortyEight.desktop": {
         "star0": 0,
@@ -28886,8 +28940,8 @@
         "star2": 1,
         "star3": 1,
         "star4": 1,
-        "star5": 6,
-        "total": 9
+        "star5": 7,
+        "total": 10
     },
     "org.gnome.Usage.desktop": {
         "star0": 0,
@@ -28957,9 +29011,9 @@
         "star1": 1,
         "star2": 0,
         "star3": 0,
-        "star4": 1,
+        "star4": 2,
         "star5": 2,
-        "total": 4
+        "total": 5
     },
     "org.gnome.clocks": {
         "star0": 0,
@@ -29183,8 +29237,8 @@
         "star2": 7,
         "star3": 10,
         "star4": 24,
-        "star5": 184,
-        "total": 247
+        "star5": 185,
+        "total": 248
     },
     "org.gnu.emacs": {
         "star0": 0,
@@ -29297,11 +29351,11 @@
     "org.homelinuxserver.vance.biblereader": {
         "star0": 0,
         "star1": 2,
-        "star2": 0,
+        "star2": 1,
         "star3": 0,
         "star4": 0,
         "star5": 0,
-        "total": 2
+        "total": 3
     },
     "org.hydrogenmusic.Hydrogen": {
         "star0": 0,
@@ -29315,11 +29369,11 @@
     "org.inkscape.Inkscape": {
         "star0": 0,
         "star1": 17,
-        "star2": 9,
+        "star2": 10,
         "star3": 16,
         "star4": 34,
         "star5": 291,
-        "total": 367
+        "total": 368
     },
     "org.inkscape.Inkscape.desktop": {
         "star0": 0,
@@ -29449,12 +29503,12 @@
     },
     "org.kde.ark.desktop": {
         "star0": 0,
-        "star1": 14,
+        "star1": 15,
         "star2": 8,
         "star3": 9,
         "star4": 9,
         "star5": 33,
-        "total": 73
+        "total": 74
     },
     "org.kde.blinken.desktop": {
         "star0": 0,
@@ -29906,6 +29960,15 @@
         "star5": 3,
         "total": 5
     },
+    "org.kde.kbackup.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
     "org.kde.kbibtex.desktop": {
         "star0": 0,
         "star1": 0,
@@ -30272,8 +30335,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 0,
-        "star5": 1,
-        "total": 3
+        "star5": 2,
+        "total": 4
     },
     "org.kde.klipper": {
         "star0": 0,
@@ -30415,9 +30478,9 @@
         "star1": 11,
         "star2": 1,
         "star3": 1,
-        "star4": 2,
+        "star4": 3,
         "star5": 4,
-        "total": 19
+        "total": 20
     },
     "org.kde.kolf.desktop": {
         "star0": 0,
@@ -30430,12 +30493,12 @@
     },
     "org.kde.kollision.desktop": {
         "star0": 0,
-        "star1": 1,
+        "star1": 2,
         "star2": 0,
         "star3": 1,
         "star4": 0,
         "star5": 0,
-        "total": 2
+        "total": 3
     },
     "org.kde.kolourpaint": {
         "star0": 0,
@@ -30443,8 +30506,8 @@
         "star2": 4,
         "star3": 6,
         "star4": 17,
-        "star5": 128,
-        "total": 172
+        "star5": 131,
+        "total": 175
     },
     "org.kde.kolourpaint.desktop": {
         "star0": 0,
@@ -30452,8 +30515,8 @@
         "star2": 4,
         "star3": 4,
         "star4": 14,
-        "star5": 117,
-        "total": 150
+        "star5": 120,
+        "total": 153
     },
     "org.kde.kompare.desktop": {
         "star0": 0,
@@ -30484,21 +30547,21 @@
     },
     "org.kde.kontact": {
         "star0": 0,
-        "star1": 8,
+        "star1": 9,
         "star2": 0,
         "star3": 3,
         "star4": 1,
         "star5": 4,
-        "total": 16
+        "total": 17
     },
     "org.kde.kontact.desktop": {
         "star0": 0,
-        "star1": 8,
+        "star1": 9,
         "star2": 0,
         "star3": 3,
         "star4": 1,
         "star5": 4,
-        "total": 16
+        "total": 17
     },
     "org.kde.konversation.desktop": {
         "star0": 0,
@@ -30605,8 +30668,8 @@
         "star2": 9,
         "star3": 12,
         "star4": 27,
-        "star5": 153,
-        "total": 212
+        "star5": 155,
+        "total": 214
     },
     "org.kde.krita.desktop": {
         "star0": 0,
@@ -30614,8 +30677,8 @@
         "star2": 9,
         "star3": 12,
         "star4": 27,
-        "star5": 153,
-        "total": 212
+        "star5": 155,
+        "total": 214
     },
     "org.kde.kronometer.desktop": {
         "star0": 0,
@@ -30638,20 +30701,20 @@
     "org.kde.krusader": {
         "star0": 0,
         "star1": 2,
-        "star2": 1,
+        "star2": 2,
         "star3": 1,
         "star4": 3,
         "star5": 25,
-        "total": 32
+        "total": 33
     },
     "org.kde.krusader.desktop": {
         "star0": 0,
         "star1": 2,
-        "star2": 1,
+        "star2": 2,
         "star3": 1,
         "star4": 3,
         "star5": 25,
-        "total": 32
+        "total": 33
     },
     "org.kde.kshisen.desktop": {
         "star0": 0,
@@ -30889,12 +30952,12 @@
     },
     "org.kde.latte-dock.desktop": {
         "star0": 0,
-        "star1": 13,
+        "star1": 14,
         "star2": 2,
         "star3": 1,
         "star4": 5,
         "star5": 28,
-        "total": 49
+        "total": 50
     },
     "org.kde.latte.plasmoid": {
         "star0": 0,
@@ -31496,8 +31559,8 @@
         "star2": 18,
         "star3": 16,
         "star4": 38,
-        "star5": 190,
-        "total": 291
+        "star5": 191,
+        "total": 292
     },
     "org.libreoffice.LibreOffice.desktop": {
         "star0": 0,
@@ -31604,8 +31667,8 @@
         "star2": 73,
         "star3": 91,
         "star4": 96,
-        "star5": 455,
-        "total": 882
+        "star5": 456,
+        "total": 883
     },
     "org.mozilla.Firefox.desktop": {
         "star0": 0,
@@ -31613,8 +31676,8 @@
         "star2": 4,
         "star3": 4,
         "star4": 10,
-        "star5": 20,
-        "total": 44
+        "star5": 21,
+        "total": 45
     },
     "org.mozilla.FirefoxDevEdition.desktop": {
         "star0": 0,
@@ -31627,12 +31690,12 @@
     },
     "org.mozilla.Thunderbird": {
         "star0": 0,
-        "star1": 81,
+        "star1": 82,
         "star2": 31,
         "star3": 29,
         "star4": 38,
         "star5": 102,
-        "total": 281
+        "total": 282
     },
     "org.mozilla.Thunderbird.desktop": {
         "star0": 0,
@@ -31701,19 +31764,19 @@
         "star0": 0,
         "star1": 26,
         "star2": 3,
-        "star3": 6,
+        "star3": 7,
         "star4": 12,
-        "star5": 53,
-        "total": 100
+        "star5": 54,
+        "total": 102
     },
     "org.mypaint.mypaint": {
         "star0": 0,
         "star1": 0,
         "star2": 0,
-        "star3": 1,
+        "star3": 2,
         "star4": 1,
         "star5": 7,
-        "total": 9
+        "total": 10
     },
     "org.netsurf_browser.NetSurf": {
         "star0": 0,
@@ -31739,8 +31802,8 @@
         "star2": 13,
         "star3": 4,
         "star4": 8,
-        "star5": 73,
-        "total": 195
+        "star5": 74,
+        "total": 196
     },
     "org.notepad_plus_plus.Notepad-plus-plus": {
         "star0": 0,
@@ -31811,8 +31874,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 0,
-        "star5": 2,
-        "total": 3
+        "star5": 3,
+        "total": 4
     },
     "org.openmw.OpenMW.desktop": {
         "star0": 0,
@@ -31820,8 +31883,8 @@
         "star2": 2,
         "star3": 1,
         "star4": 1,
-        "star5": 23,
-        "total": 29
+        "star5": 24,
+        "total": 30
     },
     "org.openscad.OpenSCAD": {
         "star0": 0,
@@ -31906,21 +31969,21 @@
     },
     "org.phoenicis.playonlinux": {
         "star0": 0,
-        "star1": 29,
+        "star1": 30,
         "star2": 5,
         "star3": 3,
         "star4": 1,
         "star5": 7,
-        "total": 45
+        "total": 46
     },
     "org.phoenicis.playonlinux.desktop": {
         "star0": 0,
-        "star1": 29,
+        "star1": 30,
         "star2": 5,
         "star3": 3,
         "star4": 1,
         "star5": 7,
-        "total": 45
+        "total": 46
     },
     "org.photoqt.PhotoQt": {
         "star0": 0,
@@ -32009,8 +32072,8 @@
         "star2": 2,
         "star3": 5,
         "star4": 8,
-        "star5": 61,
-        "total": 76
+        "star5": 62,
+        "total": 77
     },
     "org.qbittorrent.qBittorrent.desktop": {
         "star0": 0,
@@ -32018,8 +32081,8 @@
         "star2": 2,
         "star3": 5,
         "star4": 8,
-        "star5": 61,
-        "total": 76
+        "star5": 62,
+        "total": 77
     },
     "org.qgis.qgis": {
         "star0": 0,
@@ -32068,21 +32131,30 @@
     },
     "org.qutebrowser.qutebrowser": {
         "star0": 0,
-        "star1": 2,
+        "star1": 3,
         "star2": 0,
         "star3": 0,
         "star4": 2,
         "star5": 8,
-        "total": 12
+        "total": 13
     },
     "org.qutebrowser.qutebrowser.desktop": {
         "star0": 0,
-        "star1": 2,
+        "star1": 3,
         "star2": 0,
         "star3": 0,
         "star4": 2,
         "star5": 3,
-        "total": 7
+        "total": 8
+    },
+    "org.radare.Cutter": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
     },
     "org.remmina.Remmina": {
         "star0": 0,
@@ -32090,8 +32162,8 @@
         "star2": 10,
         "star3": 11,
         "star4": 15,
-        "star5": 103,
-        "total": 160
+        "star5": 104,
+        "total": 161
     },
     "org.remmina.Remmina.desktop": {
         "star0": 0,
@@ -32099,8 +32171,8 @@
         "star2": 10,
         "star3": 11,
         "star4": 15,
-        "star5": 103,
-        "total": 160
+        "star5": 104,
+        "total": 161
     },
     "org.rncbc.qtractor": {
         "star0": 0,
@@ -32369,8 +32441,8 @@
         "star2": 30,
         "star3": 58,
         "star4": 87,
-        "star5": 631,
-        "total": 876
+        "star5": 632,
+        "total": 877
     },
     "org.texstudio.TeXstudio": {
         "star0": 0,
@@ -32383,12 +32455,12 @@
     },
     "org.thonny.Thonny.desktop": {
         "star0": 0,
-        "star1": 1,
+        "star1": 2,
         "star2": 0,
         "star3": 3,
         "star4": 6,
         "star5": 14,
-        "total": 24
+        "total": 25
     },
     "org.tlauncher.TLauncher": {
         "star0": 0,
@@ -32477,8 +32549,8 @@
         "star2": 44,
         "star3": 73,
         "star4": 102,
-        "star5": 988,
-        "total": 1354
+        "star5": 991,
+        "total": 1357
     },
     "org.videolan.VLC.desktop": {
         "star0": 0,
@@ -32536,12 +32608,12 @@
     },
     "org.winehq.wine": {
         "star0": 0,
-        "star1": 369,
+        "star1": 372,
         "star2": 46,
         "star3": 35,
         "star4": 45,
         "star5": 146,
-        "total": 641
+        "total": 644
     },
     "org.winehq.wine.development": {
         "star0": 0,
@@ -32630,8 +32702,8 @@
         "star2": 1,
         "star3": 0,
         "star4": 2,
-        "star5": 8,
-        "total": 14
+        "star5": 9,
+        "total": 15
     },
     "org.zealdocs.Zeal.desktop": {
         "star0": 0,
@@ -32639,8 +32711,8 @@
         "star2": 1,
         "star3": 0,
         "star4": 1,
-        "star5": 5,
-        "total": 9
+        "star5": 6,
+        "total": 10
     },
     "org.zim_wiki.Zim": {
         "star0": 0,
@@ -32648,8 +32720,8 @@
         "star2": 0,
         "star3": 2,
         "star4": 4,
-        "star5": 48,
-        "total": 55
+        "star5": 49,
+        "total": 56
     },
     "org.zotero.Zotero": {
         "star0": 0,
@@ -32810,8 +32882,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 0,
-        "star5": 5,
-        "total": 10
+        "star5": 6,
+        "total": 11
     },
     "parole.desktop": {
         "star0": 0,
@@ -33499,12 +33571,12 @@
     },
     "pq.desktop": {
         "star0": 0,
-        "star1": 7,
+        "star1": 8,
         "star2": 1,
         "star3": 3,
         "star4": 0,
         "star5": 8,
-        "total": 19
+        "total": 20
     },
     "pragha.desktop": {
         "star0": 0,
@@ -33547,9 +33619,9 @@
         "star1": 1,
         "star2": 5,
         "star3": 2,
-        "star4": 3,
+        "star4": 4,
         "star5": 6,
-        "total": 17
+        "total": 18
     },
     "projectx.desktop": {
         "star0": 0,
@@ -33584,8 +33656,8 @@
         "star2": 7,
         "star3": 7,
         "star4": 4,
-        "star5": 18,
-        "total": 55
+        "star5": 19,
+        "total": 56
     },
     "prusa-slicer.desktop": {
         "star0": 0,
@@ -33753,10 +33825,10 @@
         "star0": 0,
         "star1": 18,
         "star2": 6,
-        "star3": 8,
+        "star3": 9,
         "star4": 15,
         "star5": 167,
-        "total": 214
+        "total": 215
     },
     "pychess.desktop": {
         "star0": 0,
@@ -33764,8 +33836,8 @@
         "star2": 0,
         "star3": 3,
         "star4": 2,
-        "star5": 7,
-        "total": 14
+        "star5": 8,
+        "total": 15
     },
     "pyhoca-gui": {
         "star0": 0,
@@ -33938,6 +34010,15 @@
         "star5": 3,
         "total": 7
     },
+    "qjackctl.desktop": {
+        "star0": 0,
+        "star1": 2,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 0,
+        "total": 2
+    },
     "qlipper.desktop": {
         "star0": 0,
         "star1": 1,
@@ -34066,12 +34147,12 @@
     },
     "qtqr.desktop": {
         "star0": 0,
-        "star1": 3,
+        "star1": 4,
         "star2": 2,
         "star3": 0,
         "star4": 1,
         "star5": 6,
-        "total": 12
+        "total": 13
     },
     "qtspim.desktop": {
         "star0": 0,
@@ -34201,12 +34282,12 @@
     },
     "qutebrowser.desktop": {
         "star0": 0,
-        "star1": 2,
+        "star1": 3,
         "star2": 0,
         "star3": 0,
         "star4": 1,
         "star5": 8,
-        "total": 11
+        "total": 12
     },
     "qvideoob.desktop": {
         "star0": 0,
@@ -34421,8 +34502,8 @@
         "star2": 9,
         "star3": 9,
         "star4": 21,
-        "star5": 49,
-        "total": 98
+        "star5": 50,
+        "total": 99
     },
     "refresh-wifi_kgshank.net": {
         "star0": 0,
@@ -34509,10 +34590,10 @@
         "star0": 0,
         "star1": 1,
         "star2": 0,
-        "star3": 1,
+        "star3": 2,
         "star4": 0,
         "star5": 3,
-        "total": 5
+        "total": 6
     },
     "renpy-thequestion.desktop": {
         "star0": 0,
@@ -34979,8 +35060,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 1,
-        "star5": 4,
-        "total": 6
+        "star5": 5,
+        "total": 7
     },
     "seahorse.desktop": {
         "star0": 0,
@@ -35330,8 +35411,8 @@
         "star2": 4,
         "star3": 5,
         "star4": 8,
-        "star5": 58,
-        "total": 80
+        "star5": 59,
+        "total": 81
     },
     "simplescreenrecorder.desktop": {
         "star0": 0,
@@ -35427,10 +35508,10 @@
         "star0": 0,
         "star1": 54,
         "star2": 19,
-        "star3": 14,
+        "star3": 15,
         "star4": 13,
         "star5": 35,
-        "total": 135
+        "total": 136
     },
     "slack.desktop": {
         "star0": 0,
@@ -35560,12 +35641,12 @@
     },
     "software-properties-drivers-lxqt.desktop": {
         "star0": 0,
-        "star1": 43,
+        "star1": 44,
         "star2": 2,
         "star3": 2,
         "star4": 2,
         "star5": 10,
-        "total": 59
+        "total": 60
     },
     "software-properties-gnome.desktop": {
         "star0": 0,
@@ -35614,12 +35695,12 @@
     },
     "sol.desktop": {
         "star0": 0,
-        "star1": 9,
+        "star1": 10,
         "star2": 2,
         "star3": 8,
         "star4": 5,
         "star5": 33,
-        "total": 57
+        "total": 58
     },
     "solaar": {
         "star0": 0,
@@ -35807,8 +35888,8 @@
         "star2": 1,
         "star3": 1,
         "star4": 7,
-        "star5": 24,
-        "total": 36
+        "star5": 25,
+        "total": 37
     },
     "stardict.desktop": {
         "star0": 0,
@@ -36005,8 +36086,8 @@
         "star2": 7,
         "star3": 14,
         "star4": 33,
-        "star5": 227,
-        "total": 302
+        "star5": 228,
+        "total": 303
     },
     "support_insynchq.com": {
         "star0": 0,
@@ -36067,9 +36148,9 @@
         "star1": 0,
         "star2": 1,
         "star3": 2,
-        "star4": 3,
+        "star4": 4,
         "star5": 2,
-        "total": 8
+        "total": 9
     },
     "switchWorkSpace_sun.wxg_gmail.com": {
         "star0": 0,
@@ -36236,11 +36317,11 @@
     "system-config-printer.desktop": {
         "star0": 0,
         "star1": 20,
-        "star2": 9,
+        "star2": 10,
         "star3": 4,
         "star4": 0,
         "star5": 22,
-        "total": 55
+        "total": 56
     },
     "system-config-samba.desktop": {
         "star0": 0,
@@ -36383,8 +36464,8 @@
         "star2": 7,
         "star3": 11,
         "star4": 15,
-        "star5": 12,
-        "total": 56
+        "star5": 14,
+        "total": 58
     },
     "teamwire.desktop": {
         "star0": 0,
@@ -36428,8 +36509,8 @@
         "star2": 7,
         "star3": 18,
         "star4": 29,
-        "star5": 148,
-        "total": 228
+        "star5": 149,
+        "total": 229
     },
     "tellico.desktop": {
         "star0": 0,
@@ -36716,8 +36797,8 @@
         "star2": 24,
         "star3": 18,
         "star4": 17,
-        "star5": 87,
-        "total": 233
+        "star5": 88,
+        "total": 234
     },
     "torcs.desktop": {
         "star0": 0,
@@ -37297,12 +37378,12 @@
     },
     "unity-appearance-panel.desktop": {
         "star0": 0,
-        "star1": 44,
+        "star1": 45,
         "star2": 0,
         "star3": 1,
         "star4": 0,
         "star5": 4,
-        "total": 49
+        "total": 50
     },
     "unity-bluetooth-panel.desktop": {
         "star0": 0,
@@ -37526,8 +37607,8 @@
         "star2": 9,
         "star3": 1,
         "star4": 6,
-        "star5": 17,
-        "total": 59
+        "star5": 18,
+        "total": 60
     },
     "us.zoom.Zoom.desktop": {
         "star0": 0,
@@ -37535,8 +37616,8 @@
         "star2": 9,
         "star3": 1,
         "star4": 6,
-        "star5": 17,
-        "total": 59
+        "star5": 18,
+        "total": 60
     },
     "usb-creator-gtk.desktop": {
         "star0": 0,
@@ -37760,8 +37841,8 @@
         "star2": 17,
         "star3": 19,
         "star4": 21,
-        "star5": 96,
-        "total": 244
+        "star5": 97,
+        "total": 245
     },
     "virtualjaguar.desktop": {
         "star0": 0,
@@ -37796,8 +37877,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 0,
-        "star5": 4,
-        "total": 5
+        "star5": 5,
+        "total": 6
     },
     "vivaldi-snapshot.desktop": {
         "star0": 0,
@@ -38228,8 +38309,8 @@
         "star2": 34,
         "star3": 42,
         "star4": 46,
-        "star5": 124,
-        "total": 300
+        "star5": 126,
+        "total": 302
     },
     "whatsie.desktop": {
         "star0": 0,
@@ -38728,12 +38809,12 @@
     },
     "xarchiver.desktop": {
         "star0": 0,
-        "star1": 8,
+        "star1": 9,
         "star2": 6,
         "star3": 3,
         "star4": 2,
         "star5": 17,
-        "total": 36
+        "total": 37
     },
     "xawtv.desktop": {
         "star0": 0,
@@ -39241,12 +39322,12 @@
     },
     "yakuake.desktop": {
         "star0": 0,
-        "star1": 6,
+        "star1": 7,
         "star2": 1,
         "star3": 2,
         "star4": 5,
         "star5": 20,
-        "total": 34
+        "total": 35
     },
     "yandex-browser-beta.desktop": {
         "star0": 0,
@@ -39416,8 +39497,8 @@
         "star2": 0,
         "star3": 2,
         "star4": 4,
-        "star5": 48,
-        "total": 55
+        "star5": 49,
+        "total": 56
     },
     "zipwin_nikoniukDev.gmail.com": {
         "star0": 0,

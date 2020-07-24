@@ -29,4 +29,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/santhosh/app/a3" added="2020-07-23T15:09:32Z" modified="2020-07-23T15:09:32Z" visited="2020-07-23T15:09:32.784801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-07-23T15:09:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
