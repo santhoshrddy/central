@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="7158" last-seen="1595568417"/>
-    <application id="firefox.desktop" open-window-count="1" score="775" last-seen="1595568438"/>
+    <application id="update-manager.desktop" open-window-count="0" score="1" last-seen="1595901696"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="8507" last-seen="1595901806"/>
+    <application id="firefox.desktop" open-window-count="1" score="859" last-seen="1595901854"/>
+    <application id="libreoffice-writer.desktop" open-window-count="1" score="1" last-seen="1595901712"/>
   </context>
 </application-state>
