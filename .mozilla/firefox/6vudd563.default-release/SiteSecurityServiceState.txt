@@ -6,13 +6,13 @@ cdnjs.cloudflare.com:HSTS	0	18465	1611207861831,1,1,2
 graph.facebook.com:HSTS	0	18466	1611066337773,1,0,2
 q.quora.com:HSTS	0	18465	1658499957737,1,1,2
 www.youtube.com:HSTS	0	18466	1627048842567,1,0,2
-firefox.settings.services.mozilla.com:HSTS	4	18471	1627437608896,1,0,2
+firefox.settings.services.mozilla.com:HSTS	4	18471	1627439093882,1,0,2
 stats.g.doubleclick.net:HSTS	0	18465	1606314358454,1,1,2
 www.mozilla.org:HSTS	0	18466	1627047752903,1,0,2
 www.facebook.com:HSTS	1	18465	1626963922755,1,1,2
 services.addons.mozilla.org:HSTS	2	18471	1627437730058,1,0,2
 stackoverflow.com:HSTS	0	18466	1598106348566,1,0,2
-alive.github.com:HSTS	3	18471	1627437845235,1,0,2
+alive.github.com:HSTS	3	18471	1627439946690,1,0,2
 octocaptcha.com:HSTS	0	18465	1626964721358,1,1,2
 avatars1.githubusercontent.com:HSTS	1	18466	1627074427148,1,0,2
 api.github.com:HSTS	3	18471	1627437843864,1,1,2
