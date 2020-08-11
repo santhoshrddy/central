@@ -335,3 +335,84 @@ Aug 04, 2020 4:59:38 PM org.apache.coyote.AbstractProtocol start
 INFO: Starting ProtocolHandler ["http-bio-8080"]
 Aug 04, 2020 4:59:38 PM org.apache.catalina.startup.Catalina start
 INFO: Server startup in 6930 ms
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Aug 11, 2020 1:48:38 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/7.0.105
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jul 2 2020 12:25:26 UTC
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 7.0.105.0
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            5.3.0-28-generic
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           11.0.7+10-post-Ubuntu-2ubuntu218.04
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Ubuntu
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/santhosh/apache-tomcat-7.0.105
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/santhosh/apache-tomcat-7.0.105
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/santhosh/apache-tomcat-7.0.105/conf/logging.properties
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/santhosh/apache-tomcat-7.0.105
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/santhosh/apache-tomcat-7.0.105
+Aug 11, 2020 1:48:39 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/santhosh/apache-tomcat-7.0.105/temp
+Aug 11, 2020 1:48:39 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+Aug 11, 2020 1:48:40 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Aug 11, 2020 1:48:40 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 17903 ms
+Aug 11, 2020 1:48:41 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Aug 11, 2020 1:48:41 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.105
+Aug 11, 2020 1:48:41 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/home/santhosh/apache-tomcat-7.0.105/webapps/docs]
+Aug 11, 2020 1:48:46 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+WARNING: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [238] milliseconds.
+Aug 11, 2020 1:48:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/home/santhosh/apache-tomcat-7.0.105/webapps/docs] has finished in [5,611] ms
+Aug 11, 2020 1:48:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/home/santhosh/apache-tomcat-7.0.105/webapps/examples]
+Aug 11, 2020 1:48:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/home/santhosh/apache-tomcat-7.0.105/webapps/examples] has finished in [4,182] ms
+Aug 11, 2020 1:48:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/home/santhosh/apache-tomcat-7.0.105/webapps/manager]
+Aug 11, 2020 1:48:52 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/home/santhosh/apache-tomcat-7.0.105/webapps/manager] has finished in [1,007] ms
+Aug 11, 2020 1:48:52 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/home/santhosh/apache-tomcat-7.0.105/webapps/host-manager]
+Aug 11, 2020 1:48:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/home/santhosh/apache-tomcat-7.0.105/webapps/host-manager] has finished in [796] ms
+Aug 11, 2020 1:48:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory [/home/santhosh/apache-tomcat-7.0.105/webapps/ROOT]
+Aug 11, 2020 1:48:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory [/home/santhosh/apache-tomcat-7.0.105/webapps/ROOT] has finished in [670] ms
+Aug 11, 2020 1:48:54 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Aug 11, 2020 1:48:54 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 13755 ms
